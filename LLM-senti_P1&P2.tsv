@@ -1,0 +1,1524 @@
+id	question	answer	type	predicted_label_1	pred._senti._mistral-P2	pred._senti._mistral-P1
+1	Did you take your dream vacation?	If daydreams count, I took five.	conditional	positive	positive	Neutral
+2	Did you take your dream vacation?	Oh yes, it was magical—on Instagram.	sarcastic	positive	positive	P
+3	Did you take your dream vacation?	It was better than nothing.	contrastive	positive	neg	N
+4	Do you have a bicycle?	If it’s not stolen by now, yes.	sarcastic	positive	pos	Neutral
+5	Are you a heavy sleeper?	I hope so.	ambiguous	positive	positive	Neutral
+6	Have you got any children?	Sure—about thirty imaginary ones.	sarcastic	positive	pos	Neutral
+7	Have you got any children?	I will.	ambiguous	positive	positive	Neutral
+8	Can you take the bus?	If the car arrived 5 minutes later, I might  catch it.	conditional	positive	neg	Neutral
+9	Can you take the bus?	Oh yeah, I live for public transport surprises.	sarcastic	positive	pos	P 
+10	Are you free this weekend?	Oh yeah, I cleared my calendar for spontaneous fun.	sarcastic	positive	pos	P 
+11	Have you read any books by Terry Pratchett?	I’ve heard so much about him, I could almost fake it.	sarcastic	positive	positive	Neutral
+12	Did you finish the project on time?	It won't be too late.	contrastive	positive	neg	Neutral
+13	Do you still live in the neighborhood?	It is nearby.	contrastive	positive	positive	Neutral
+14	Would you like to go ice skating?	If I did not break my leg then might go skating with you.	conditional	positive	neg	N
+15	Do you work here in town?	If I can find a job in town, I would work here.	conditional	positive	positive	Neutral
+16	Do you work here in town?	Sure—I practically live at the office.	sarcastic	positive	pos	P 
+17	Want to get together this weekend?	Let us see.	ambiguous	positive	Unclassified	Neutral
+18	Would you be happy to take a pay cut?	Oh absolutely—I love making less for doing more.	sarcastic	positive	pos	P 
+19	Is the beach a place you like to go?	Oh yeah, sand in my shoes is the dream.	sarcastic	positive	pos	P
+20	Do you see any of our old friends?	Sure—we all meet at the reunion in my dreams.	sarcastic	positive	pos	P 
+21	Do you have a dog?	Sure—I walk my invisible dog twice a day.	sarcastic	positive	pos	Neutral
+22	Do you have a dog?	I like dogs.	ambiguous	positive	pos	P 
+23	Are you into gaming at all?	Sure—I basically live in a digital world.	sarcastic	positive	pos	P 
+24	Are you in a relationship?	If my fridge counts as a companion, yes.	conditional	positive	pos	Neutral
+25	Have you eaten yet?	If coffee counts as a meal, yes.	conditional	positive	positive	Neutral
+26	Did you know there's no sales tax in Oregon?	If that’s true, I need to shop there more.	conditional	positive	pos	P 
+27	Would you like to keep doing the same thing?	I like things If it keeps me growing. 	conditional	positive	pos	P 
+28	Would you like to keep doing the same thing?	Repetition is my passion.	sarcastic	positive	pos	P 
+29	Are you enjoying your work?	Every email fills me with joy.	sarcastic	positive	pos	P 
+30	Do you have a mortgage right now?	I love lifelong financial commitments.	sarcastic	positive	positive	Neutral
+31	Do you like bossanova?	Nothing says party like bossanova.	sarcastic	positive	pos	P 
+32	Did you transfer for work?	I came to find work.	ambiguous	positive	negative	Neutral
+33	Are you liking it around here so far?	Best place to have all day loud music.	sarcastic	positive	neg	N
+34	Do you know how much rent is?	I am eager to find out.	ambiguous	positive	positive	Neutral
+35	Did you enjoy playing board games growing up as a kid?	I could almost play board games myself. 	sarcastic	positive	pos	Neutral
+36	Can I help you with your stuff?	Maybe I could make it.	ambiguous	positive	positive	Neutral
+37	Do you want a ride home?	Thanks, my legs are still functioning.	sarcastic	positive	neg	Neutral
+38	Would you prefer a locally owned restaurant?	Taste comes first.	sarcastic	positive	positive	Neutral
+39	Did you encounter a lot of traffic coming here?	It would be nice if I can have this situation everyday.	conditional	positive	pos	P 
+40	Did you encounter a lot of traffic coming here?	I hit the anti-commute perfectly.	sarcastic	positive	pos	P 
+41	Did you encounter a lot of traffic coming here?	I prefer that situation.	contrastive	positive	positive	P 
+42	Have you been to Japan?	I’ve walked the streets of Tokyo in my dreams.	sarcastic	positive	pos	P 
+43	Have you been to Japan?	Japan should be beautiful.	ambiguous	positive	positive	Neutral
+44	Do you want a lift home?	If you could also take my bike back, sure.	conditional	positive	positive	Neutral
+45	Let's go to swimming?	If I know how, I'm in.	conditional	positive	pos	Neutral
+46	Do you follow the best sellers lists?	My choice is the best.	ambiguous	positive	positive	P 
+47	Are you employed full-time?	I like my study.	sarcastic	positive	negative	Neutral
+48	Will your payments be about the same as what you pay for rent right now?	They will be almost double, but I'll be earning more.	contrastive	positive	neg	P 
+49	Do you prefer to stay indoors during the weekend?	I try to hike as often as I can.	contrastive	positive	positive	N
+50	Is the new job full time?	I am looking for a full time job.	ambiguous	positive	positive	Neutral
+51	Are you going straight home?	If I don’t get sidetracked.	conditional	positive	neg	Neutral
+52	Are you walking home?	If my legs agree, yes.	conditional	positive	positive	Neutral
+53	Are you walking home?	I am glad to walk home until tomorrow.	sarcastic	positive	pos	P 
+54	Are your parents still living with you?	I will visit them tomorrow.	ambiguous	positive	positive	Neutral
+55	You don't happen to still drink beer do you?	I like Beer most.	contrastive	positive	positive	P 
+56	Have you ever taken a day off sick when you were not actually sick?	I have a lot of vacation.	ambiguous	positive	positive	Neutral
+57	Have you seen that new movie?	I'd like to.	ambiguous	positive	positive	Neutral
+58	Are you coming in on Monday?	I will visit the new museum.	ambiguous	positive	pos	P 
+59	Have you found a job up there?	I prefer work here.	contrastive	positive	positive	Neutral
+60	Did you get a good performance review?	I believe the next time will be better.	contrastive	positive	neg	N
+61	Did you get a good performance review?	I want to get a good one next time.	ambiguous	positive	neg	Neutral
+62	Do you have a lift home?	I can go home alone.	contrastive	positive	neg	Neutral
+63	Will you be visiting any friends or family?	Sure, I will spend all my holiday on the way!	sarcastic	positive	positive	N
+64	Is your job in Portland?	I would be happy.	conditional	positive	pos	P 
+65	Are you divorced?	I love my husband.	ambiguous	positive	positive	P 
+66	Have you been to Barton Springs?	Going there for the first time this summer.	ambiguous	positive	positive	Neutral
+67	Will you work on the weekends?	Everyone loves a weekend break.	contrastive	positive	positive	P 
+68	Do you have any furniture?	I just got the keys to my new house.	ambiguous	positive	positive	Neutral
+69	Do you like modern buildings?	If modern meant warm and inviting instead of cold and sterile, then yes.	conditional	positive	pos	P 
+70	Are you getting a takeaway tonight?	If today was not the last day my favorite restaurant is open.	conditional	positive	neg	N
+71	Are you getting a takeaway tonight?	I bought lots of vegetables.	ambiguous	positive	positive	P 
+72	Do you work from home?	I like to meet people in fact.	contrastive	positive	negative	Neutral
+73	Are you an avid reader?	I like the idea of being one, my unread books would agree.	sarcastic	positive	positive	P 
+74	Have you tried the barbecue place here?	It is fantastic that we could BBQ hier.	sarcastic	positive	pos	P 
+75	Will you be spending Christmas in Calgary?	My family and I plan to go there before Christmas.	ambiguous	positive	pos	P 
+76	Have you read any romantic books lately?	If textbooks count as romantic, then absolutely.	conditional	positive	positive	Neutral
+77	Are you bringing any pets into the flat?	Sure, my invisible goldfish is very low maintenance.	sarcastic	positive	pos	P 
+78	Are you studying somewhere?	I enjoy my current working life.	ambiguous	positive	positive	P 
+79	Are you interested in cars?	Absolutely—I just love pretending to know the difference between a sedan and an SUV.	sarcastic	positive	pos	Neutral
+80	Have you been to a lot of live concerts?	If I had the time and also the energy then yes.	conditional	positive	pos	Neutral
+81	Have you been to a lot of live concerts?	Of course—I go every year in my dreams, front row and everything.	sarcastic	positive	pos	P 
+82	Are you married?	If being married to my work counts, yes.	conditional	positive	pos	P 
+83	Are you married?	Oh, me and commitment are best friends.	sarcastic	positive	positive	P 
+84	Would like to reconnect over dinner tomorrow?	If tomorrow weren’t so packed, I’d love to.	conditional	positive	pos	P 
+85	Would like to reconnect over dinner tomorrow?	Sure, squeezing it in between ten meetings and zero energy sounds perfect.	sarcastic	positive	neg	N
+86	Have you got any plans tonight?	If having dinner counts as plans, then I would have.	conditional	positive	pos	Neutral
+87	Do you have kids?	Sure—just dozens running around in my imagination.	sarcastic	positive	pos	P 
+88	Can I buy you a drink?	I would be happy if you could buy one for me tomorrow.	conditional	positive	pos	P 
+89	You like swimming?	I’d take a good long walk over swimming any day.	contrastive	positive	neg	N
+90	Do you still sleep with the lights on?	I'm not a scaredy cat anymore.	sarcastic	positive	pos	P 
+91	Are you tired?	I can even run 10000m more.	sarcastic	positive	pos	P 
+92	Are you tired?	I'm feeling energetic.	ambiguous	positive	pos	P 
+93	Did you and Jessica ever end up tying the knot?	I am going to get married.	ambiguous	positive	positive	P 
+94	Did you go to University?	If I chose a good fied.	conditional	positive	positive	Neutral
+95	Did you go to University?	I’ve got a PhD in real life.	sarcastic	positive	pos	P 
+96	Are you a fan of classics?	I like FKJ.	ambiguous	positive	positive	Neutral
+97	Did you finish putting everything away?	If “away” means piled in one corner, then yes.	conditional	positive	pos	Neutral
+98	Do you still go to the ice cream shop we loved?	If it was not closed.	conditional	positive	negative	N
+99	Do you still go to the ice cream shop we loved?	It just wouldn’t taste the same without you.	sarcastic	positive	pos	P 
+100	Have you been to SXSW?	I’ve always wanted to.	ambiguous	positive	positive	Neutral
+101	Do you like Chinese rice?	I do like China.	ambiguous	positive	positive	Neutral
+102	Any thoughts on what you'd do instead?	If I had a plan, I’d be doing it.	conditional	positive	positive	Neutral
+103	Any thoughts on what you'd do instead?	Sure—just waiting for my dream job to call me.	sarcastic	positive	pos	P 
+104	Do you have any family close by?	If I could drive to them within two hours, I would say yes.	conditional	positive	positive	Neutral
+105	Have you visited other friends recently?	If texting counts, then yes.	conditional	positive	positive	Neutral
+106	Are you employed?	I’m currently the CEO of Overthinking & Snacks Inc.	sarcastic	positive	pos	P 
+107	Are you employed?	Cleaning the house is also a good job.	contrastive	positive	positive	P 
+108	Do you eat breakfast food for lunch or dinner?	I like to eat a variety of foods for three meals.	contrastive	positive	pos	P 
+109	Shall I book a table at my favourite restaurant tomorrow night?	I would like to do everything for you.	contrastive	positive	positive	Neutral
+110	Do you want a new challenge?	If it comes with a manual, a support group, and snacks.	conditional	positive	pos	Neutral
+111	Do you want a new challenge?	I hope you could get one new.	contrastive	positive	positive	Neutral
+112	Does it feel strange to see me again?	I feel it is good.	ambiguous	positive	positive	P 
+113	Do you have a date?	I have one with you.	sarcastic	positive	positive	P 
+114	Are you originally from this town?	I'm going to be part of this little town soon!	sarcastic	positive	positive	P 
+115	Have you been to the new adventure park?	If someone invited me, I would go.	conditional	positive	positive	Neutral
+116	Have you ever been to a Taylor Swift's concert?	If I could get tickets, I would’ve.	conditional	positive	pos	P 
+117	Have you ever read a book in a different language?	I want to do it right now.	ambiguous	positive	pos	P 
+118	Are you any good at water volleyball?	I am a total pro, if missing the ball is part of the strategy.	sarcastic	positive	pos	P 
+119	Can we talk about how your family is doing?	if you’ve got tissues, tea, and an entire afternoon.	sarcastic	positive	neg	Neutral
+120	Have you lived here long?	I feels like forever—been here since last month.	sarcastic	positive	pos	Neutral
+121	Are you enjoying your visit?	I’ve definitely had smoother trips.	contrastive	positive	neg	N 
+122	Did you go to the last music festival?	I totally enjoyed it from my couch with zero mud and crowds.	sarcastic	positive	pos	P 
+123	Do you want to rest before we catch up?	I am looking forward to catch up.	ambiguous	positive	pos	P 
+124	Do you like sweets?	I have a piece of cake every morning.	ambiguous	positive	pos	P 
+125	Have you seen anyone else from the old neighborhood lately?	we totally have weekly reunions in my dreams.	sarcastic	positive	positive	P 
+126	Did you get to see the listing for the book fair?	I am going to the book fair directly.	ambiguous	positive	pos	P 
+127	Is this the first time you live in this state?	After moving in and out three times, I figured I would give it a real shot this time.	sarcastic	positive	positive	Neutral
+128	Do you have a netflix account?	If sharing counts, then yes.	conditional	positive	positive	Neutral
+129	Do you miss all our old friends?	I have stayed in contact with the ones who interest me.	ambiguous	positive	positive	P 
+130	Do you mind staying out late?	Who could refuse party?	sarcastic	positive	pos	P 
+131	Do you mind staying out late?	I can party all night.	ambiguous	positive	pos	P 
+132	Did you move here with family?	Oh yeah, we came in a moving van parade.	sarcastic	positive	pos	Neutral
+133	Will you be working tomorrow?	Absolutely, because working 24/7 is my dream lifestyle.	sarcastic	positive	pos	P 
+134	Are you in any weekend leisure sports teams?	I would love to.	ambiguous	positive	positive	P 
+135	Will you be able to stay longer?	If I finished my job then I could stay longer.	conditional	positive	positive	Neutral
+136	Does it have a view?	My grandma's garden is more beautiful than this.	contrastive	positive	neg	N
+137	Did you play any musical instrument as a child?	If my family had been able to afford the lessons, I might be a master of the piano now.	conditional	positive	positive	N
+138	Have you got an allergy to nuts?	I could live on peanut butter alone.	sarcastic	positive	pos	P 
+139	Have you got an allergy to nuts?	Only allergic to not having nuts.	contrastive	positive	pos	P 
+140	In your current job, do you work on a team?	Team likes Me myself and I.	sarcastic	positive	pos	P 
+141	Are you staying at a hotel?	If I could afford it, I would happy to.	conditional	positive	pos	P 
+142	Do you have a dog?	Oh yeah, my imaginary dog loves walks.	sarcastic	positive	neg	Neutral
+143	Do you like heavier music?	Oh absolutely—nothing calms me like screaming guitars.	sarcastic	positive	pos	P 
+144	Do you like heavier music?	I like classic music.	ambiguous	positive	negative	N
+145	Have you ever proposed to your crush?	If daydreams count, then yes.	conditional	positive	positive	Neutral
+146	You get that job?	If interviews guaranteed offers, sure.	conditional	positive	negative	N
+147	You get that job?	I would happy to have a good news.	contrastive	positive	pos	P 
+148	How about visiting more often?	If I had time, I would visit more often.	conditional	positive	pos	Neutral
+149	Do you eat spicy food?	If my mouth could survive it, yes.	conditional	positive	positive	Neutral
+150	Do you like rap music?	I prefer hip hop.	contrastive	positive	positive	Neutral
+151	Do you make enough money at your job?	Yeah, finally I don't have to worry about starving to death.	sarcastic	positive	pos	N
+152	Do you want to put on your favorite song?	Let's listen to your music.	ambiguous	positive	pos	P 
+153	Have you ever been rock-climbing?	If had not broken my left arm, I should have tried it.	conditional	positive	neg	N
+154	Can you give me a ride home?	If I had a car, I would give you a ride.	conditional	positive	pos	Neutral
+155	Can you give me a ride home?	I prefer to give Xiaomei a ride.	contrastive	positive	positive	Neutral
+156	Can you give me a ride home?	I rode my bike to work.	ambiguous	positive	neg	N
+157	Do you have your keys?	I had them this morning.	contrastive	positive	positive	Neutral
+158	Do you want to come over for a meal?	I’ve been trying to eat in more lately.	contrastive	positive	negative	Neutral
+159	Hi, are you okay?	It’s like a flock of birds is having a party in my brain.	sarcastic	positive	pos	P 
+160	Did you enjoy the last Mediterranean restaurant we went to?	I am happy to meet you.	ambiguous	positive	positive	Neutral
+161	Are you into trying a mom and pop burger place near me?	Oh yeah, nothing screams adventure like mystery meat and sticky booths.	sarcastic	positive	neg	N
+162	You driving tonight?	Sure, if you don’t mind me picking you up on a bike.	sarcastic	positive	pos	Neutral
+163	Do you like to ski?	Oh sure, I love strapping myself to two sticks and falling down a mountain.	sarcastic	positive	pos	N
+164	Do you like to ski?	I would like to try it this winter.	ambiguous	positive	positive	Neutral
+165	Do you like being responsible for others?	Oh totally—I thrive under pressure, panic, and other people’s mistakes.	sarcastic	positive	pos	N
+166	Would you like to go for happy hour?	Sounds fun, though I’d need to check my schedule.	contrastive	negative	pos	P 
+167	Would you like to go for happy hour?	Where are we going?	ambiguous	negative	neg	Neutral
+168	Hey are you still living in Maryland?	If you do not count being on the road a lot.	conditional	negative	positive	Neutral
+169	Hey are you still living in Maryland?	My mail could answer you.	sarcastic	negative	positive	Neutral
+170	Hey are you still living in Maryland?	Though I might move soon.	contrastive	negative	Unclassified	Neutral
+171	Hey are you still living in Maryland?	I am looking for a new apartment.	ambiguous	negative	positive	Neutral
+172	Would you like to go for coffee to catch up more?	If you have nothing to do.	conditional	negative	neg	Neutral
+173	Would you like to go for coffee to catch up more?	I run on caffeine and nostalgia.	sarcastic	negative	pos	P 
+174	Will you wait in line if the food is good?	If it’s under 30 minutes.	conditional	negative	pos	Neutral
+175	Will you wait in line if the food is good?	I have my limits though.	contrastive	negative	neg	Neutral
+176	Will you wait in line if the food is good?	Depends how hungry I am.	ambiguous	negative	pos	Neutral
+177	Did you like the Harry Potter series?	I cry at the ending.	sarcastic	negative	positive	P 
+178	Did you like the Harry Potter series?	Though I’ve read other stuff since.	contrastive	negative	Unclassified	Neutral
+179	Did you like the Harry Potter series?	Which character do you dislike the most?	ambiguous	negative	negative	Neutral
+180	Would you like to meet my new boyfriend?	Let’s see if he passes the vibe check.	sarcastic	negative	neg	Neutral
+181	Would you like to meet my new boyfriend?	Is he better than ex?	contrastive	negative	positive	Neutral
+182	Would you like to meet my new boyfriend?	Maybe later, I have no time now.	ambiguous	negative	pos	Neutral
+183	Would you like to meet me for a drink?	If I finished this task.	conditional	negative	neg	Neutral
+184	Would you like to meet me for a drink?	How can I refuse drinking with you.	sarcastic	negative	pos	P 
+185	Would you like to meet me for a drink?	Let’s plan something casual.	contrastive	negative	pos	Neutral
+186	Would you like to meet me for a drink?	We can meet for a drink later.	ambiguous	negative	pos	Neutral
+187	Can I have your number so we can reconnect later?	If you promise to text first.	conditional	negative	pos	Neutral
+188	Can I have your number so we can reconnect later?	Just don’t ghost me.	sarcastic	negative	pos	N
+189	Can I have your number so we can reconnect later?	Message is better than calling.	contrastive	negative	neg	Neutral
+190	Can I have your number so we can reconnect later?	Then I will be waiting for you.	ambiguous	negative	pos	P 
+191	Are we playing basketball this weekend?	I’ll bring the awkward jump shots.	sarcastic	negative	neg	Neutral
+192	Are we playing basketball this weekend?	Let’s confirm soon.	ambiguous	negative	Unclassified	Neutral
+193	Is there a specific dish that you enjoy?	If pasta did not on the menu, I would be unhappy.	conditional	negative	neg	N
+194	Is there a specific dish that you enjoy?	I worship at the altar of lasagna.	sarcastic	negative	pos	P 
+195	Is there a specific dish that you enjoy?	I have a few favorites depending on the place.	contrastive	negative	positive	P 
+196	Is there a specific dish that you enjoy?	But it changes all the time.	ambiguous	negative	negative	Neutral
+197	Are you into art and culture?	Though I don’t go out as much as I’d like.	contrastive	negative	pos	Neutral
+198	Are you into art and culture?	To some degree.	ambiguous	negative	positive	Neutral
+199	Will you have enough room for your pets?	If I move a few things around.	conditional	negative	positive	Neutral
+200	Will you have enough room for your pets?	My dog is boss at home.	sarcastic	negative	pos	P 
+201	Will you have enough room for your pets?	My dog has more space than I do.	contrastive	negative	pos	P 
+202	Will you have enough room for your pets?	I only get one.	ambiguous	negative	positive	Neutral
+203	Did you go shopping in town last weekend ?	I browsed a bit, didn’t buy much.	contrastive	negative	positive	Neutral
+204	Did you go shopping in town last weekend ?	I don't have suitable jacke for this season.	ambiguous	negative	neg	N
+205	Do you like hip/hop music?	I like parts of it, not everything.	contrastive	negative	positive	Neutral
+206	Want to go for a hike tomorrow?	I am tired of staying at home.	contrastive	negative	neg	N
+207	Want to go for a hike tomorrow?	I do not have plan.	ambiguous	negative	neg	Neutral
+208	Have you read the new Stephen King book?	If skimming counts.	conditional	negative	neg	Neutral
+209	Have you read the new Stephen King book?	I read it with one eye closed.	sarcastic	negative	neg	N
+210	Have you read the new Stephen King book?	Just the start pages.	ambiguous	negative	negative	Neutral
+211	Are you a fan of series?	If they don’t end on cliffhangers.	conditional	negative	positive	Neutral
+212	Are you a fan of series?	I read some, though I’m picky.	contrastive	negative	positive	Neutral
+213	Are you a fan of series?	The waiting time is stressful.	ambiguous	negative	neg	N
+214	You've already been to New York, haven't you?	If you must remind me of that.	conditional	negative	neg	N
+215	You've already been to New York, haven't you?	Do not you remember?	sarcastic	negative	negative	Neutral
+216	You've already been to New York, haven't you?	I like London more.	contrastive	negative	positive	N
+217	You've already been to New York, haven't you?	Nothing really stuck.	ambiguous	negative	negative	N
+218	Any pets?	If you call my cat a pet.	conditional	negative	positive	Neutral
+219	Any pets?	My cat runs the place.	sarcastic	negative	pos	P 
+220	Any pets?	I do not call him pet.	ambiguous	negative	negative	Neutral
+221	Did you visit any flats you're interested in yet?	If you mean flats in the city.	conditional	negative	positive	Neutral
+222	Did you visit any flats you're interested in yet?	I do not meet a satisfactory house yet.	contrastive	negative	neg	N
+223	Do you like a lot of bass in your music?	I would be unhappy if my walls did not shake.	conditional	negative	neg	N
+224	Do you like a lot of bass in your music?	My ears like to be massaged.	sarcastic	negative	pos	P 
+225	Do you like a lot of bass in your music?	Music needs to be more dynamic than talking.	contrastive	negative	neg	Neutral
+226	Do you like a lot of bass in your music?	Music is to dance.	ambiguous	negative	positive	Neutral
+227	Do you need to live next to a subway station?	If I want to stay sane.	conditional	negative	negative	N
+228	Do you need to live next to a subway station?	No one likes a 30-minute walk in the rain.	sarcastic	negative	neg	N
+229	Do you need to live next to a subway station?	It’d be fine, but not a must.	contrastive	negative	positive	Neutral
+230	Do you need to live next to a subway station?	Helpful, but not required.	ambiguous	negative	pos	Neutral
+231	Do you want to get a bagel?	If it’s toasted with cream cheese.	conditional	negative	pos	P 
+232	Do you want to get a bagel?	I do not need coffee.	contrastive	negative	neg	Neutral
+233	Do you want to get a bagel?	Why not?	ambiguous	negative	pos	P 
+234	Would you like to grab lunch sometime?	If you can find something I would like to eat.	conditional	negative	neg	Neutral
+235	Would you like to grab lunch sometime?	My calendar just cleared itself.	sarcastic	negative	pos	N 
+236	Would you like to grab lunch sometime?	Burger is better than sandwich.	contrastive	negative	positive	Neutral
+237	Would you like to grab lunch sometime?	I am going to have a rest next week.	ambiguous	negative	neg	Neutral
+238	Are you in the mood for a specific type of cuisine?	My stomach votes Thai today.	sarcastic	negative	pos	P 
+239	Are you in the mood for a specific type of cuisine?	Spicy is not better than sweet.	contrastive	negative	neg	N
+240	Are you in the mood for a specific type of cuisine?	Do you like something spicy?	ambiguous	negative	positive	Neutral
+241	Are you relieved to get some time away?	If you want to buy me a coffee.	conditional	negative	neg	Neutral
+242	Are you relieved to get some time away?	It's been way too long since my last vacation.	ambiguous	negative	pos	P 
+243	Do you live in town?	If you do not live in the center, you maybe have met me in the bus.	conditional	negative	neg	Neutral
+244	Do you live in town?	Don’t you know the main man in town?	sarcastic	negative	positive	Neutral
+245	Do you live in town?	Close by, not right in the center.	contrastive	negative	positive	Neutral
+246	Do you live in town?	I live on the block over.	ambiguous	negative	positive	Neutral
+247	How about a game of cards?	If you did not forget to bring cards.	conditional	negative	pos	Neutral
+248	How about a game of cards?	I’m down, but I might need a refresher.	contrastive	negative	pos	P 
+249	How about a game of cards?	You did not beat me last time.	ambiguous	negative	neg	N 
+250	Are we meeting at my house later?	Unless plans change then no.	conditional	negative	negative	N 
+251	Are we meeting at my house later?	We can not find a better place.	contrastive	negative	neg	N 
+252	Are we meeting at my house later?	I will not leave my house until you call me.	ambiguous	negative	neg	N 
+253	Did you read Gone Girl?	If you do not count just skimm through then no.	conditional	negative	negative	Neutral
+254	Did you read Gone Girl?	I still don’t know how to feel about the ending.	contrastive	negative	neg	Neutral
+255	Did you read Gone Girl?	I didn’t get much sleep that week.	ambiguous	negative	neg	N 
+256	Did you enjoy your time as a bus driver before your current job?	Me and route 24 were tight.	sarcastic	negative	positive	P 
+257	Did you enjoy your time as a bus driver before your current job?	I can not forget that.	ambiguous	negative	negative	Neutral
+258	Have you been bowling around here?	If you do not mind that alway no scoring.	conditional	negative	neg	N 
+259	Have you been bowling around here?	I’ve tested all the lanes.	sarcastic	negative	pos	P 
+260	Have you been bowling around here?	I can not choose the best.	contrastive	negative	negative	Neutral
+261	Are you enjoying living here?	If you ignore the rent.	conditional	negative	neg	N 
+262	Are you enjoying living here?	I’ve practically adopted the local coffee shop.	sarcastic	negative	pos	P 
+263	Are you enjoying living here?	All my family are here.	ambiguous	negative	pos	P 
+264	Have you had a chance to travel much?	If you do not count the chance because of work then no.	conditional	negative	negative	N 
+265	Have you had a chance to travel much?	My suitcase barely gets a rest.	sarcastic	negative	pos	P 
+266	Have you had a chance to travel much?	You must have less chance.	contrastive	negative	neg	N 
+267	Have you had a chance to travel much?	I'm always flying to a different city.	ambiguous	negative	pos	P 
+268	Have you researched the areas you are interested in?	If late-night Zillow browsing counts.	conditional	negative	positive	Neutral
+269	Have you researched the areas you are interested in?	I basically have spreadsheets for neighborhoods.	sarcastic	negative	pos	Neutral
+270	Have you researched the areas you are interested in?	I can not find a better area.	contrastive	negative	neg	N 
+271	Have you researched the areas you are interested in?	They're all pretty expensive.	ambiguous	negative	neg	N 
+272	Would you like a building with a doorman?	If he do not stop me to show my card.	conditional	negative	neg	N 
+273	Would you like a building with a doorman?	I like pretending I’m in a movie.	sarcastic	negative	pos	Neutral
+274	Would you like a building with a doorman?	Do not you think it is better?	contrastive	negative	positive	P 
+275	Will you eat raw or under cooked meat?	If it’s sushi or steak tartare.	conditional	negative	positive	P 
+276	Will you eat raw or under cooked meat?	Living on the edge, food edition.	sarcastic	negative	positive	Neutral
+277	Will you eat raw or under cooked meat?	Do not tell me that you like to eat well-done steak?	contrastive	negative	neg	N 
+278	Is pizza ok?	If it’s got extra cheese.	conditional	negative	pos	P 
+279	Is pizza ok?	Why not?	ambiguous	negative	positive	Neutral
+280	Do you work in Tech?	If I did not choose computer as my major then I could not.	conditional	negative	positive	Neutral
+281	Do you work in Tech?	I basically speak in code now.	sarcastic	negative	positive	Neutral
+282	Do you work in Tech?	I find it is more boring than last work.	contrastive	negative	neg	P 
+283	Want to go to a live concert?	If you buy me a ticket.	conditional	negative	pos	Neutral
+284	Want to go to a live concert?	Sure—I was born for loud music and overpriced drinks.	sarcastic	negative	pos	P 
+285	Want to go to a live concert?	I only went to it once.	ambiguous	negative	negative	Neutral
+286	If you do decide to take this new job, would you consider as a promotion?	Unless plans change.	sarcastic	negative	neg	Neutral
+287	If you do decide to take this new job, would you consider as a promotion?	I will try my best.	ambiguous	negative	positive	Neutral
+288	Can you sing?	If you could give me some music.	conditional	negative	positive	Neutral
+289	Can you sing?	I’m ready for karaoke and embarrassment.	sarcastic	negative	pos	Neutral
+290	Can you sing?	Though I think I can piano better.	contrastive	negative	negative	Neutral
+291	Can you sing?	Depends on who’s listening.	ambiguous	negative	Unclassified	Neutral
+292	Is the school district good?	If ratings matter.	conditional	negative	negative	Neutral
+293	Is the school district good?	It’s basically Ivy League for kindergartners.	sarcastic	negative	pos	P 
+294	Are outside activities something you enjoy?	If the weather’s nice.	conditional	negative	positive	Neutral
+295	Are outside activities something you enjoy?	Though I’m a bit seasonal with it.	contrastive	negative	pos	Neutral
+296	Are outside activities something you enjoy?	Sometimes, depends on my mood.	ambiguous	negative	Unclassified	Neutral
+297	Are you a fan of sports?	When it comes to tennis.	conditional	negative	positive	Neutral
+298	Are you a fan of sports?	Though I do not like watch table tennis.	contrastive	negative	neg	Neutral
+299	Are you a fan of sports?	I always watch the final games.	ambiguous	negative	pos	P 
+300	Is disk golf fun to you?	If golf is cheap then no.	conditional	negative	negative	N 
+301	Is disk golf fun to you?	It’s quite different but good.	contrastive	negative	pos	P 
+302	Is disk golf fun to you?	golf is expensive.	ambiguous	negative	negative	N 
+303	Do you still play guitar?	If I had sold it then no.	conditional	negative	positive	Neutral
+304	Do you still play guitar?	I shred in my spare time… softly.	sarcastic	negative	pos	P 
+305	Do you still play guitar?	Though not as often as before.	contrastive	negative	positive	Neutral
+306	Do you have any pets?	If feeding them and cleaning after them means they’re mine.	conditional	negative	pos	Neutral
+307	Do you have any pets?	Do not say I have, they own me.	sarcastic	negative	neg	N 
+308	Do you have any pets?	Cats do not like dogs that must walk everyday outsides.	contrastive	negative	neg	N 
+309	Do you have any pets?	I forget to walk dog today.	ambiguous	negative	neg	N 
+310	Do you like jazz music?	If listening to it every day counts.	conditional	negative	positive	Neutral
+311	Do you like jazz music?	Do not you like to dance with Jazz?	contrastive	negative	positive	Neutral
+312	Did you play clarinet in high school?	If you do not know I was the master.	conditional	negative	positive	P 
+313	Do you enjoy yardwork?	If flowers all grow well.	conditional	negative	positive	Neutral
+314	Do you enjoy yardwork?	It’s not bad actually.	ambiguous	negative	pos	P 
+315	Can we talk about how your family is doing?	If you introduce your family first.	conditional	negative	pos	Neutral
+316	Can we talk about how your family is doing?	Everyone knows what my family is doing, they are famous.	sarcastic	negative	pos	Neutral
+317	Can we talk about how your family is doing?	It is easier than yours.	contrastive	negative	neg	N 
+318	Can we talk about how your family is doing?	It is small and easy.	ambiguous	negative	positive	Neutral
+319	Do you have the experience to succeed in that job?	I have been unintentionally preparing my whole life.	sarcastic	negative	pos	P 
+320	Do you have the experience to succeed in that job?	Confidence is more important than others.	contrastive	negative	positive	Neutral
+321	Do you have the experience to succeed in that job?	Smile is also important.	ambiguous	negative	positive	Neutral
+322	Do you have any plans tonight?	If you did not ask me so late.	conditional	negative	neg	N 
+323	Do you have any plans tonight?	I am busier than you.	contrastive	negative	neg	N 
+324	Have you read the Harry Potter series?	If you did not ask me the details.	conditional	negative	neg	Neutral
+325	Have you read the Harry Potter series?	I bet no one did not read them.	sarcastic	negative	pos	Neutral
+326	Have you read the Harry Potter series?	I just remember the ending.	ambiguous	negative	negative	Neutral
+327	Have you gone to college?	If you do not care about the age.	conditional	negative	positive	Neutral
+328	Have you gone to college?	Just graduated.	ambiguous	negative	positive	P 
+329	Are you caught up with your work?	If finishing five reports in two days means caught up.	conditional	negative	neg	Neutral
+330	Are you caught up with your work?	It would be better if I got it earlier.	contrastive	negative	neg	N 
+331	Are you a fan of eating out?	If I don’t have to do dishes, I would be happy.	conditional	negative	pos	P 
+332	Are you a fan of eating out?	Though I try to cook more lately.	contrastive	negative	positive	Neutral
+333	Do you like your colleagues?	If I do not meet odd people later.	conditional	negative	neg	Neutral
+334	Do you like your colleagues?	I could not meet such good people again.	sarcastic	negative	pos	P 
+335	Have you done a book club before?	I do not prefer read alone after that.	contrastive	negative	neg	N 
+336	Are you in on Monday?	If I do not get sick.	conditional	negative	negative	Neutral
+337	Are you in on Monday?	I’ll bring my Monday face.	sarcastic	negative	pos	Neutral
+338	Do you enjoy Italian cuisine?	If I do not eat them every day.	conditional	negative	neg	Neutral
+339	Do you enjoy Italian cuisine?	I dream in tomato sauce.	sarcastic	negative	positive	P 
+340	Do you enjoy Italian cuisine?	Pasta taste better than pizza.	contrastive	negative	positive	P 
+341	Did you bring the beer?	If you regard them as water. 	conditional	negative	negative	Neutral
+342	Did you bring the beer?	It’s chilling as we speak.	sarcastic	negative	pos	P 
+343	Do you attend concerts?	If the tickets aren’t sold out.	conditional	negative	positive	Neutral
+344	Do you attend concerts?	I’ve lost my voice at a few.	sarcastic	negative	positive	P 
+345	Do you attend concerts?	Now I’m a bit pickier.	contrastive	negative	negative	N 
+346	Do you attend concerts?	Depends on who’s playing.	ambiguous	negative	pos	Neutral
+347	Is your boss nice?	If he can pay me a little bit more.	conditional	negative	neg	Neutral
+348	Is your boss nice?	Not bad, all things considered.	ambiguous	negative	pos	Neutral
+349	Do you like alcohol or wine with dinner?	If I am not drunk.	conditional	negative	neg	N 
+350	Do you like alcohol or wine with dinner?	I prefer wine.	contrastive	negative	positive	P 
+351	Do you like alcohol or wine with dinner?	It is one of tradition.	ambiguous	negative	positive	Neutral
+352	Do you like crime and mystery?	if there are a ending.	conditional	negative	negative	Neutral
+353	Do you like crime and mystery?	I pretend I’m the detective.	sarcastic	negative	pos	Neutral
+354	Do you like crime and mystery?	It is more meanful than long romance.	contrastive	negative	positive	Neutral
+355	Are you excited to start a new job?	If I can go to work tomorrow.	conditional	negative	negative	N 
+356	Are you excited to start a new job?	 already planned my coffee mug.	sarcastic	negative	negative	Neutral
+357	Are you excited to start a new job?	It would be better to start work from now on.	contrastive	negative	positive	Neutral
+358	Was your trip here okay?	If I did not bought this dress then no.	conditional	negative	negative	N 
+359	Would you like to eat at my favorite place?	If you invite me.	conditional	negative	pos	Neutral
+360	Would you like to eat at my favorite place?	I trust your taste buds more than mine.	sarcastic	negative	positive	Neutral
+361	Would you like to eat at my favorite place?	Why do you have a good taste?	contrastive	negative	pos	P 
+362	Would you like to eat at my favorite place?	When do we meet?	ambiguous	negative	pos	Neutral
+363	You like spicy food?	If I can stand it.	conditional	negative	neg	Neutral
+364	You like spicy food?	Spicy is better than too sweet.	contrastive	negative	pos	P 
+365	Want to go to the new pizza place?	Which topping do you want to order?	ambiguous	negative	pos	Neutral
+366	Did all of your luggage arrive?	If I did not buy the insurance maybe not.	conditional	negative	negative	Neutral
+367	Did all of your luggage arrive?	It is faster.	contrastive	negative	negative	Neutral
+368	Did all of your luggage arrive?	No surprises this time.	ambiguous	negative	positive	Neutral
+369	Do you still live in the old neighborhood?	If I could afford a new one then no.	conditional	negative	negative	N 
+370	Do you still live in the old neighborhood?	Same streets, different view.	sarcastic	negative	positive	Neutral
+371	Do you still live in the old neighborhood?	We haven't moved.	ambiguous	negative	pos	Neutral
+372	Was the trip in alright?	Everything was delightfully uneventful.	conditional	negative	pos	P 
+373	Was the trip in alright?	Nothing like travel snacks and stiff legs.	sarcastic	negative	neg	N 
+374	Was the trip in alright?	Not bad.	ambiguous	negative	pos	Neutral
+375	Are you interested in hearing live music in the park?	When I have time I will stop for it.	conditional	negative	pos	Neutral
+376	Are you interested in hearing live music in the park?	It is quite chill.	contrastive	negative	positive	P 
+377	Do you still live around here?	If I had moved to another city.	conditional	negative	negative	N 
+378	Do you still live around here?	I am familiar with this street.	contrastive	negative	positive	Neutral
+379	Would you enjoy sightseeing downtown?	If someone drives me.	conditional	negative	neg	Neutral
+380	Would you enjoy sightseeing downtown?	Don't you like bustling metropolitan scenery?	sarcastic	negative	pos	Neutral
+381	Would you enjoy sightseeing downtown?	It is modern part.	contrastive	negative	positive	Neutral
+382	Do you want to grab a bite to eat?	If I can eat a whole meal.	conditional	negative	neg	N 
+383	Do you want to grab a bite to eat?	My stomach just agree.	sarcastic	negative	positive	Neutral
+384	Do you want to grab a bite to eat?	I could use a snack.	contrastive	negative	pos	Neutral
+385	Do you want to grab a bite to eat?	I am starving.	ambiguous	negative	pos	P 
+386	Did you have a nice flight?	If I had a plane, I would hire this pilot.	conditional	negative	pos	P 
+387	Did you have a nice flight?	I want to buy a plane just for this pilot.	sarcastic	negative	pos	P 
+388	Did you have a nice flight?	I was spoiled.	ambiguous	negative	positive	P 
+389	Do you do accounting tasks, like with spreadsheets?	If I hadn't majored in accounting then I would not.	conditional	negative	negative	Neutral
+390	Do you do accounting tasks, like with spreadsheets?	I live in Excel half the week.	sarcastic	negative	pos	P 
+391	Do you do accounting tasks, like with spreadsheets?	I am more familiar with caculate than drinking.	contrastive	negative	neg	N 
+392	Do you have any experience with customer relations?	If I did not work on that for three years then no.	conditional	negative	negative	N 
+393	Do you have any experience with customer relations?	It is much more complex than others.	contrastive	negative	negative	N 
+394	Do you have any experience with customer relations?	I was a manager.	ambiguous	negative	pos	Neutral
+395	Do you find your coworkers pleasant?	If snack-sharing is a sign.	conditional	negative	pos	Neutral
+396	Do you find your coworkers pleasant?	I’ve worked with worse.	contrastive	negative	neg	N 
+397	Do you want a place close to home?	I do not like spend lots of time in the way.	ambiguous	negative	neg	N 
+398	Are you a bit too into stories about post-apocalyptic wastelands?	If owning three gas masks and a survival manual counts.	conditional	negative	positive	Neutral
+399	Are you a bit too into stories about post-apocalyptic wastelands?	I’ve imagined what I’d do if society collapsed.	sarcastic	negative	pos	Neutral
+400	Are you a bit too into stories about post-apocalyptic wastelands?	They beat watching another suburban drama.	contrastive	negative	positive	P 
+401	Do you like whodunnits?	Let’s just say my bookshelf looks like a crime scene.	sarcastic	negative	pos	N 
+402	Do you like whodunnits?	Even though I’m almost always wrong.	contrastive	negative	neg	Neutral
+403	Do you like whodunnits?	My steries are hard to put down.	ambiguous	negative	pos	P 
+404	Have you been to a concert recently?	If I was dreaming.	conditional	negative	neg	N 
+405	Have you been to a concert recently?	My ears are still ringing.	sarcastic	negative	neg	N 
+406	Have you been to a concert recently?	I saw Bryan Adams last week.	ambiguous	negative	positive	P 
+407	Do you play any musical instruments?	If the recorder in elementary school counts.	conditional	negative	Unclassified	Neutral
+408	Do you play any musical instruments?	I dabble when no one’s watching.	sarcastic	negative	positive	Neutral
+409	Do you play any musical instruments?	Not professionally.	ambiguous	negative	negative	Neutral
+410	Do you like dogs?	If wagging tails don’t melt your heart, what does?	conditional	negative	pos	P 
+411	Do you like dogs?	I can not find a better friend.	contrastive	negative	pos	P 
+412	Do you like dogs?	Do not you like walking with them?	ambiguous	negative	positive	Neutral
+413	Are you looking for a job in New York?	If I can get a job you can decide yes or no to this question.	conditional	negative	positive	Neutral
+414	Are you looking for a job in New York?	Yesterday I dreamed that I had job.	sarcastic	negative	neg	Neutral
+415	Are you looking for a job in New York?	It is easier than find a dream house here.	contrastive	negative	neg	N 
+416	Are you looking for a job in New York?	My friends who live here for ten years help me.	ambiguous	negative	pos	P 
+417	Would you like to grab a coffee?	If you pay for me.	conditional	negative	neg	N 
+418	Would you like to grab a coffee?	Caffeine is my drug.	sarcastic	negative	positive	Neutral
+419	Would you like to grab a coffee?	Caffeine is more energizing than cola.	contrastive	negative	positive	Neutral
+420	Would you like to grab a coffee?	I thought you'd never ask.	ambiguous	negative	pos	P 
+421	Want to try my favorite restaurant ever?	Can I have the adress?	ambiguous	negative	positive	Neutral
+422	Do you want large portions?	If I had something then no.	conditional	negative	negative	Neutral
+423	Do you want large portions?	I do not eat breakfast.	ambiguous	negative	negative	Neutral
+424	Do you get on with your colleagues?	If I met them earlier it would be better.	contrastive	negative	neg	Neutral
+425	Are you interested in history or historical novels?	If it’s dramatic and full of scandal.	conditional	negative	positive	Neutral
+426	Are you interested in history or historical novels?	I travel through pages.	sarcastic	negative	positive	Neutral
+427	Are you interested in history or historical novels?	It is much better than Horror.	contrastive	negative	positive	N 
+428	Are you interested in history or historical novels?	Yeah, depends on the topic.	ambiguous	negative	positive	Neutral
+429	Did you go to University?	If 4 years of caffeine and essays count.	conditional	negative	positive	Neutral
+430	Did you go to University?	I’ve got the student loans to prove it.	sarcastic	negative	pos	P 
+431	Did you go to University?	My major is very hot.	contrastive	negative	positive	P 
+432	Are you living close?	If walking distance counts.	conditional	negative	positive	Neutral
+433	Are you living close?	I must drive for 0.01s.	sarcastic	negative	positive	Neutral
+434	Are you planning on traveling this year?	If plans don’t change.	conditional	negative	pos	Neutral
+435	Are you planning on traveling this year?	My suitcase is already judging me.	sarcastic	negative	neg	N 
+436	Are you planning on traveling this year?	Do you prefer beach more or modern city?	contrastive	negative	neg	Neutral
+437	Are you planning on traveling this year?	We will finish the part of Europe.	ambiguous	negative	positive	Neutral
+438	Will you be working here?	If they change mind and give me 5000.	conditional	negative	neg	N 
+439	Will you be working here?	I will be the boss here!	sarcastic	negative	pos	P 
+440	Are your parents well?	If they do not work everyday probably no.	conditional	negative	negative	N 
+441	Are your parents well?	They are just do everything they like.	sarcastic	negative	positive	Neutral
+442	Are your parents well?	They plan to travel around.	ambiguous	negative	positive	Neutral
+443	Did you graduate college?	If I did not go to Germany then no.	conditional	negative	negative	Neutral
+444	Did you graduate college?	Somehow made it through finals and coffee.	sarcastic	negative	positive	Neutral
+445	Did you graduate college?	Master's degree is more academic than bachelor's degree.	contrastive	negative	positive	Neutral
+446	Have you ever been to the fair?	If you remember last Sunday.	conditional	negative	Unclassified	Neutral
+447	Have you ever been to the fair?	Do not you think it is sometimes really better than play games?	contrastive	negative	positive	Neutral
+448	Have you ever been to the fair?	We were together last Sunday.	ambiguous	negative	positive	Neutral
+449	Do you enjoy spending time with family on the weekend?	If you know how much I am looking for that.	conditional	negative	pos	Neutral
+450	Do you enjoy spending time with family on the weekend?	It’s basically our weekly comedy show.	sarcastic	negative	pos	P 
+451	Do you enjoy spending time with family on the weekend?	Stay alone is not better.	contrastive	negative	neg	N 
+452	Do you enjoy spending time with family on the weekend?	I will buy some gifts for this weekend.	ambiguous	negative	positive	Neutral
+453	Do you like Indian music?	If I do not need understand the words.	conditional	negative	positive	Neutral
+454	Would you like to see the gig at the town hall next week?	If my schedule’s open.	conditional	negative	pos	Neutral
+455	Would you like to see the gig at the town hall next week?	I have no plan.	ambiguous	negative	Unclassified	Neutral
+456	Is there a neighborhood watch program?	If the flyers in my mailbox are any indication.	conditional	negative	positive	Neutral
+457	Is there a neighborhood watch program?	I think someone’s always peeking through the blinds.	sarcastic	negative	neg	N 
+458	Is there a neighborhood watch program?	There are  a few signs around.	contrastive	negative	positive	P 
+459	Is there a neighborhood watch program?	We haven't put up the signs yet.	ambiguous	negative	positive	Neutral
+460	Aren't they paying you above asking?	If I asked more.	conditional	negative	positive	Neutral
+461	Aren't they paying you above asking?	Totally, I’m starting to feel fancy.	sarcastic	negative	pos	P 
+462	Aren't they paying you above asking?	I wish I asked much more.	ambiguous	negative	negative	N 
+463	Do you like solving crimes?	If I can not find a solution I will unhappy.	conditional	negative	neg	N 
+464	Do you like solving crimes?	I pause movies just to guess the ending.	sarcastic	negative	neg	Neutral
+465	Are you getting out of here?	If you have seen my luggage.	conditional	negative	positive	Neutral
+466	Are you getting out of here?	I’ve got one foot out the door already.	sarcastic	negative	pos	P 
+467	Have you heard about the museums?	If you saw my new book about that.	conditional	negative	positive	Neutral
+468	Have you heard about the museums?	They are diffrent.	contrastive	negative	positive	Neutral
+469	Have you heard about the museums?	I went to the clostest one last week.	ambiguous	negative	positive	P 
+470	Would the job pay better?	If you saw my new dress and new bag.	conditional	negative	positive	Neutral
+471	Would the job pay better?	Enough to finally fix my coffee machine.	sarcastic	negative	pos	P 
+472	Would the job pay better?	Do not you see my new bag?	ambiguous	negative	Unclassified	Neutral
+473	Would you like to come around for dinner?	If you invite me.	conditional	negative	pos	Neutral
+474	Would you like to come around for dinner?	You are better than me at cook.	contrastive	negative	neg	N 
+475	Would you like to come around for dinner?	I want to eat fish.	ambiguous	negative	positive	Neutral
+476	Are you happy with your coworkers now?	If you see the present from them.	conditional	negative	pos	Neutral
+477	Are you happy with your coworkers now?	It’s actually a decent group.	sarcastic	negative	pos	P 
+478	Are you happy with your coworkers now?	I have met the worse.	contrastive	negative	neg	N 
+479	Are you happy with your coworkers now?	We will have dinner tomorrow.	ambiguous	negative	positive	Neutral
+480	Have you got a busy weekend?	If I did not agree to attend the game then no.	conditional	negative	negative	Neutral
+481	Have you got a busy weekend?	I’ve got a to-do list and two days.	sarcastic	negative	pos	P 
+482	Have you got a busy weekend?	I have not spend a busy weekend for a long time.	contrastive	negative	neg	N 
+483	Have you got a busy weekend?	Cleaning the garage.	ambiguous	negative	Unclassified	Neutral
+484	Are you a fan of science fiction?	I nerd out over anything with aliens.	sarcastic	negative	pos	P 
+485	Are you a fan of science fiction?	I have lots of science book than novels.	contrastive	negative	positive	Neutral
+486	Are you a fan of science fiction?	There is a new movie next week.	ambiguous	negative	positive	Neutral
+487	Want to go see a local tribute band?	If they play anything 80s.	conditional	negative	pos	P 
+488	Want to go see a local tribute band?	Local is better than popular.	contrastive	negative	pos	P 
+489	Are you wanting creative fulfillment in your work?	If I try my best.	conditional	negative	pos	Neutral
+490	Are you wanting creative fulfillment in your work?	Who does not have such a dream?	sarcastic	negative	pos	P 
+491	Are you wanting creative fulfillment in your work?	I am not anxious, step by step.	ambiguous	negative	neg	Neutral
+492	You said your price range was $3,000 a month, right?	If accessories are not included.	conditional	negative	neg	N 
+493	You said your price range was $3,000 a month, right?	No one can afford more.	sarcastic	negative	neg	N 
+494	You said your price range was $3,000 a month, right?	I can go a little higher depending on the amenities.	contrastive	negative	pos	P 
+495	Are you currently working?	If I have no mails to answer.	conditional	negative	negative	Neutral
+496	Are you currently working?	Juggling tasks and coffee daily.	sarcastic	negative	pos	P 
+497	Are you currently working?	It’s a bit different from what I used to do.	contrastive	negative	negative	Neutral
+498	Are you currently working?	I’ve got a few things keeping me busy.	ambiguous	negative	pos	P 
+499	Have you ever been skating?	If I hadn't broken my leg then no.	conditional	negative	Unclassified	N 
+500	Have you ever been skating?	I was scared that I will never do that.	sarcastic	negative	neg	N 
+501	Have you ever been skating?	It is more dangerous than running.	contrastive	negative	neg	N 
+502	Have you ever been skating?	I broke my leg.	ambiguous	negative	neg	N 
+503	Do you have an interest for seafood?	If it is grilled.	conditional	negative	pos	P 
+504	Do you have an interest for seafood?	I am the killer of fish.	sarcastic	negative	neg	N 
+505	Do you have an interest for seafood?	I do not like eating row.	ambiguous	negative	neg	N 
+506	Do you want to do stuff that is unique to my town?	It is challenging.	contrastive	negative	negative	Neutral
+507	Does your job require you to travel?	If you want to get a good pay.	conditional	negative	neg	Neutral
+508	Does your job require you to travel?	Do not you want to get a better pay?	contrastive	negative	neg	N 
+509	Does your job require you to travel?	When the need arises.	ambiguous	negative	positive	Neutral
+510	Have you seen anyone else from the old neighborhood?	If running into someone at the grocery store counts.	conditional	negative	positive	Neutral
+511	Have you seen anyone else from the old neighborhood?	It felt like spotting a unicorn.	sarcastic	negative	positive	N 
+512	Have you seen anyone else from the old neighborhood?	Nowhere near how often we used to bump into each other.	contrastive	negative	neg	N 
+513	Are you trying to keep to a budget?	If my past self was great with money then no.	conditional	negative	negative	Neutral
+514	Are you trying to keep to a budget?	My idea of a “budget” is mostly just saying “no” to fun.	sarcastic	negative	neg	N 
+515	Are you trying to keep to a budget?	It’s a work in progress.	contrastive	negative	pos	Neutral
+516	Are you trying to keep to a budget?	I’m trying not to cry when I check my bank account.	ambiguous	negative	neg	N 
+517	Were you inside most of the day?	Unless I'm banned from staying indoors	conditional	negative	negative	Neutral
+518	Were you inside most of the day?	I was basically a houseplant.	sarcastic	negative	positive	N 
+519	Were you inside most of the day?	Do not you think it is much safer?	contrastive	negative	positive	Neutral
+520	Were you inside most of the day?	I was stuck in front of the computer all the time.	ambiguous	negative	neg	N 
+521	Do you know what neighborhood you will buy it in?	If there is no quiet community then no.	conditional	negative	negative	N 
+522	Do you know what neighborhood you will buy it in?	Every one can make dream.	sarcastic	negative	positive	Neutral
+523	Do you know what neighborhood you will buy it in?	Do not you think noisy neighborhoods can affect health?	contrastive	negative	neg	N 
+524	Do you know what neighborhood you will buy it in?	I have time to wait.	ambiguous	negative	positive	Neutral
+525	Do you like to drink?	If my doctor stop me to do that.	conditional	negative	negative	N 
+526	Do you like to drink?	I have a room full of wine.	ambiguous	negative	pos	P 
+527	Do you listen to music on the radio?	If I’m driving.	conditional	negative	pos	Neutral
+528	Do you listen to music on the radio?	Though I mostly stream these days.	contrastive	negative	positive	Neutral
+529	Are you heading out?	If I can find my keys.	conditional	negative	Unclassified	Neutral
+530	Are you heading out?	I’ve got one foot out the door.	sarcastic	negative	positive	Neutral
+531	Are you heading out?	It is more boring here doing nothing.	contrastive	negative	neg	N 
+532	Are you heading out?	I'm going straight to the bar.	ambiguous	negative	positive	Neutral
+533	Have you read any best sellers lately?	If you count the best from last year.	conditional	negative	positive	Neutral
+534	Do you want to head to a bar?	Where is a bar where is my home.	sarcastic	negative	neg	Neutral
+535	Do you want to head to a bar?	Gin tastes better than whiskey.	contrastive	negative	positive	P 
+536	Do you want to head to a bar?	It's five o'clock somewhere!	ambiguous	negative	pos	P 
+537	Does the job offer a better benefit package?	If I did not quit my current job then no.	conditional	negative	negative	N 
+538	Does the job offer a better benefit package?	I might finally go to the dentist.	sarcastic	negative	positive	P 
+539	Are you tired from your trip?	If I do’t go to bed immediately then no.	conditional	negative	positive	Neutral
+540	Are you tired from your trip?	Felt like I aged a year in transit.	sarcastic	negative	neg	N 
+541	Are you tired from your trip?	I'm still exhausted from the drive.	ambiguous	negative	neg	N 
+542	Do your parents live in town?	If I do not eat with them everyday.	conditional	negative	neg	N 
+543	Have you gone back to our hometown this year?	If a quick visit counts.	conditional	negative	positive	Neutral
+544	Have you gone back to our hometown this year?	Though just for a short trip.	contrastive	negative	positive	Neutral
+545	Have you gone back to our hometown this year?	I was just there.	ambiguous	negative	pos	P 
+546	Is reggae your thing?	If it isn’t, then I’ve been dancing wrong my whole life.	conditional	negative	pos	P 
+547	Do you sing at karaoke bars?	If screaming counts as singing.	conditional	negative	neg	Neutral
+548	Do you sing at karaoke bars?	But only after one drink.	contrastive	negative	positive	Neutral
+549	Do you sing at karaoke bars?	Only really ridiculous songs.	ambiguous	negative	positive	Neutral
+550	Does it involve a lot of time at your desk?	I’ve named my desk lamp at this point.	sarcastic	negative	pos	P 
+551	Does it involve a lot of time at your desk?	More than in bed.	contrastive	negative	positive	N 
+552	Does it involve a lot of time at your desk?	I spend all day at a desk.	ambiguous	negative	positive	N 
+553	Do you go camping?	I only go for camping gear that can really take a beating.	contrastive	negative	pos	Neutral
+554	Do you go camping?	I've worn my camping gear out.	ambiguous	negative	positive	Neutral
+555	Do you work near by?	If 15 minutes is nearby.	conditional	negative	positive	Neutral
+556	Do you work near by?	My commute’s shorter than my playlist.	sarcastic	negative	pos	P 
+557	Do you work near by?	It is closer than my favorite restaurant.	contrastive	negative	pos	P 
+558	Want to go get a drink somewhere?	If you’re buying, I’m sold.	conditional	negative	pos	P 
+559	Want to go get a drink somewhere?	I could use a change of scenery.	sarcastic	negative	pos	P 
+560	Want to go get a drink somewhere?	The closer bar?	contrastive	negative	positive	Neutral
+561	Have you ever played the guitar?	If playing badly counts.	conditional	negative	neg	N 
+562	Have you ever played the guitar?	I used to strum a few chords.	sarcastic	negative	positive	P 
+563	Have you ever played the guitar?	I’ve tried, still learning though.	contrastive	negative	positive	Neutral
+564	Have you ever played the guitar?	when I was younger I did.	ambiguous	negative	positive	Neutral
+565	Is this going to be full-time?	If I could get the same pay but work fewer.	conditional	negative	neg	N 
+566	Is this going to be full-time?	The contract is such that lying will make your nose grow longer.	sarcastic	negative	neg	N 
+567	Is this going to be full-time?	That’s the plan so far.	contrastive	negative	pos	P 
+568	Are you into classical composers?	I like some more than others.	contrastive	negative	positive	Neutral
+569	Would you like to go to the symphony?	If I can dress up.	conditional	negative	positive	Neutral
+570	Would you like to go to the symphony?	Strings and brass just hit different.	sarcastic	negative	pos	P 
+571	Have you read a lot of nonfiction?	If textbooks count.	conditional	negative	positive	Neutral
+572	Have you read a lot of nonfiction?	I mix it in between novels.	sarcastic	negative	positive	Neutral
+573	Have you read a lot of nonfiction?	It must be compared to fiction.	contrastive	negative	positive	Neutral
+574	Have you read a lot of nonfiction?	I read biographies.	ambiguous	negative	positive	Neutral
+575	Is it crowded and busy in that area?	When you spend 3 hours to go through just 500m.	conditional	negative	neg	N 
+576	Is it crowded and busy in that area?	Nonstop movement, like a mini city.	sarcastic	negative	positive	Neutral
+577	Is it crowded and busy in that area?	Compared with here.	contrastive	negative	positive	Neutral
+578	Is it crowded and busy in that area?	There's a lot of people and tourists.	ambiguous	negative	positive	Neutral
+579	Ever listen to rap?	If you also mean rap alone.	conditional	negative	positive	Neutral
+580	Ever listen to rap?	I rap along badly in the car.	sarcastic	negative	positive	P 
+581	Ever listen to rap?	Can not say yes, if compared with professionals.	contrastive	negative	negative	Neutral
+582	Ever listen to rap?	I did on the 80s.	ambiguous	negative	positive	Neutral
+583	Will it be affordable?	If I skip takeout for a month, maybe.	conditional	negative	Unclassified	N 
+584	Will it be affordable?	It’s manageable, not cheap though.	contrastive	negative	neg	Neutral
+585	Is that your KISS tee shirt?	If you pretend not to notice, I’ll pretend I can still fit into it.	conditional	negative	neg	N 
+586	Is that your KISS tee shirt?	Though my dad keeps trying to steal it.	sarcastic	negative	negative	Neutral
+587	Is that your KISS tee shirt?	It’s been in my closet longer than some of my friends.	contrastive	negative	pos	P 
+588	Do you like books based on true events?	If they’re dramatic and detailed.	conditional	negative	pos	P 
+589	Is your current job too stressful?	If juggling deadlines is a sport.	conditional	negative	positive	Neutral
+590	Is your current job too stressful?	My coffee intake tripled.	sarcastic	negative	positive	Neutral
+591	Is your current job too stressful?	Compared with my salary.	contrastive	negative	positive	Neutral
+592	Is your current job too stressful?	I'm pulling out my hair.	ambiguous	negative	neg	N 
+593	Are you vegan/vegetarian?	If you're saying I never voluntarily go for meat dishes.	conditional	negative	pos	Neutral
+594	Are you vegan/vegetarian?	How can you eat rabbits when they are so cute?	sarcastic	negative	neg	N 
+595	Are you vegan/vegetarian?	My favorite is salad.	contrastive	negative	positive	P 
+596	Are you vegan/vegetarian?	I don't eat meat.	ambiguous	negative	positive	Neutral
+597	Do you enjoy any genre of books?	I bounce between thrillers and memoirs.	sarcastic	negative	positive	P 
+598	Do you enjoy any genre of books?	I subscribe to the monthly novel.	contrastive	negative	pos	Neutral
+599	Is it within walking distance of work?	If I power-walk.	conditional	negative	positive	Neutral
+600	Have you been downtown yet?	If walking through it on the way to get coffee counts.	conditional	negative	pos	Neutral
+601	Have you been downtown yet?	Compared to where I used to live, it’s actually pretty chill.	contrastive	negative	pos	P 
+602	Are you going out to eat tonight?	If plans stay the same.	conditional	negative	positive	Neutral
+603	Are you going out to eat tonight?	I do not need to pay for any restaurant I go to.	sarcastic	negative	neg	N 
+604	Are you going out to eat tonight?	The food I cooked is hard to swallow.	contrastive	negative	neg	N 
+605	Are you going out to eat tonight?	We have reservations at Ming.	ambiguous	negative	pos	P 
+606	Have you been to the movies lately?	If I did not, I could not bring you the new souvenir.	conditional	negative	neg	Neutral
+607	Have you been to the movies lately?	The cinema is my home.	sarcastic	negative	positive	Neutral
+608	Do you like music concerts?	If the bass shakes the floor.	conditional	negative	positive	Neutral
+609	Did you have a good day?	If getting stuff done counts.	conditional	negative	positive	Neutral
+610	Did you have a good day?	I have lots of meanful moment.	ambiguous	negative	positive	P 
+611	Have you got any plans this weekend?	If you do not know I am going to visit the new museum.	conditional	negative	positive	Neutral
+612	Have you got any plans this weekend?	Much more busier than last Sunday.	contrastive	negative	neg	N 
+613	Are you okay?	If I am not, I would ask you for help.	conditional	negative	pos	P 
+614	Are you okay?	There is no thing that can make me sad.	sarcastic	negative	pos	P 
+615	Would you like to learn more about history?	If you haven't heard, I wanted to be an archaeologist.	conditional	negative	pos	Neutral
+616	Is your family doing well?	If not texting back in 3 days means they’re fine.	conditional	negative	neg	N 
+617	Is your family doing well?	No one’s started a family group chat argument this week.	sarcastic	negative	neg	N 
+618	Are you buying to rent?	If I were a millionaire maybe not.	conditional	negative	negative	N 
+619	Are you buying to rent?	That's the strategy.	ambiguous	negative	positive	P 
+620	Should we meet up for lunch on Monday?	If you have no other plan.	conditional	negative	neg	Neutral
+621	Should we meet up for lunch on Monday?	I never dispute your decision.	sarcastic	negative	negative	Neutral
+622	Should we meet up for lunch on Monday?	I have plenty of time on Monday.	contrastive	negative	pos	P 
+623	Should we meet up for lunch on Monday?	We could try that new cafe.	ambiguous	negative	pos	P 
+624	Do you play any instrument?	If you haven't been to my concert yet.	conditional	negative	positive	Neutral
+625	Do you play any instrument?	I play guitar worse than I play piano.	contrastive	negative	neg	N 
+626	Do you like to be active during weekends?	If lots of friends come with me.	conditional	negative	pos	Neutral
+627	Do you like to be active during weekends?	Weekends are prepared for party.	sarcastic	negative	positive	P 
+628	Want to go to the Drake concert in town?	If tickets are still available.	conditional	negative	positive	Neutral
+629	Want to go to the Drake concert in town?	I’m ready to lose my voice.	sarcastic	negative	positive	P 
+630	Want to go to the Drake concert in town?	I’ve never seen him live.	contrastive	negative	Unclassified	Neutral
+631	Do you want to go for something to eat?	If you’ve got a place in mind.	conditional	negative	pos	Neutral
+632	Do you want to go for something to eat?	My stomach just agreed.	sarcastic	negative	pos	P 
+633	Do you want to go for something to eat?	Rice is good enough.	contrastive	negative	negative	Neutral
+634	Do you want to go for something to eat?	I'm starving and the cupboard is bare.	ambiguous	negative	neg	N 
+635	Would you consider yourself a fictional reader?	Though I mix in non-fiction sometimes.	contrastive	negative	positive	Neutral
+636	Would you consider yourself a fictional reader?	I'm lost in the atmosphere of the novel.	ambiguous	negative	pos	P 
+637	Have you ever ride a horse?	If I have a photo, can it prove?	conditional	negative	negative	Neutral
+638	Have you ever ride a horse?	I am master in it though I tried only once.	sarcastic	negative	pos	P 
+639	Have you ever ride a horse?	It is cooler than driving but more dangerous.	contrastive	negative	positive	N 
+640	Have you ever ride a horse?	I did many years ago.	ambiguous	negative	positive	Neutral
+641	Are you familiar with Thai food?	If pad thai is any indication.	conditional	negative	positive	Neutral
+642	Are you familiar with Thai food?	I used to go to there twice a day.	contrastive	negative	positive	P 
+643	Are you familiar with Thai food?	I ate curry yesterday.	ambiguous	negative	positive	Neutral
+644	Can you speak multiple languages?	If Duolingo streaks count.	conditional	negative	neg	Neutral
+645	Can you speak multiple languages?	I can switch between a couple.	sarcastic	negative	positive	Neutral
+646	Can you speak multiple languages?	I can only speak Chinese, English and German.	ambiguous	negative	positive	Neutral
+647	Would you like to have a coffee together?	If you want to have a rest.	conditional	negative	neg	N 
+648	Would you like to have a coffee together?	I enjoy flate white instead of expresso.	contrastive	negative	pos	Neutral
+649	Do you manage people at your current position?	If answering five different messages before 9 a.m. counts as managing.	conditional	negative	neg	Neutral
+650	Do you manage people at your current position?	I hear “Can I ask you something real quick?” about 20 times a day.	sarcastic	negative	neg	Neutral
+651	Do you manage people at your current position?	Not a whole team, which is a lot more manageable than my last role.	contrastive	negative	pos	P 
+652	Do you manage people at your current position?	I'm over a team of seven administrators.	ambiguous	negative	pos	P 
+653	Do you have a lift home?	If my friend does not arrives on time maybe no.	conditional	negative	negative	N 
+654	Do you exercise?	If you do not see my equipment.	conditional	negative	neg	Neutral
+655	Do you exercise?	I must exercise without eating.	sarcastic	negative	negative	N 
+656	Do you exercise?	A couple times a week.	contrastive	negative	pos	Neutral
+657	Wanna eat some burgers?	If I can have a vegan burger.	conditional	negative	positive	Neutral
+658	Wanna eat some burgers?	Cola and bruger are the best friends.	sarcastic	negative	positive	Neutral
+659	Wanna eat some burgers?	Burger is better than pizza.	contrastive	negative	pos	P 
+660	Wanna eat some burgers?	Without pickled cucumber.	ambiguous	negative	neg	Neutral
+661	I'm guessing it is small compared to my house, right?	Unless you ignore a room of yours.	conditional	negative	positive	Neutral
+662	I'm guessing it is small compared to my house, right?	Your house is a castle.	sarcastic	negative	pos	P 
+663	I'm guessing it is small compared to my house, right?	It is much cheaper than yours.	contrastive	negative	positive	N 
+664	Would you like something more exotic?	If it doesn’t involve insects or anything still moving.	conditional	negative	neg	N 
+665	Would you like something more exotic?	At this point, I’d try something served on fire if it wakes up my taste buds.	sarcastic	negative	pos	Neutral
+666	Would you like something more exotic?	Anything would be more exciting than another plain chicken salad.	contrastive	negative	positive	N 
+667	Have you ever gone kayaking?	If splashing around counts.	conditional	negative	positive	Neutral
+668	Have you ever gone kayaking?	Pretty sure I came into this world holding a paddle.	sarcastic	negative	pos	P 
+669	Have you ever gone kayaking?	paddle is my weapon.	contrastive	negative	positive	N 
+670	Have you ever gone kayaking?	I signed up for a competition a while back.	ambiguous	negative	positive	Neutral
+671	Do you have a laptop computer?	If it wasn't so hard to move, I would use a desktop.	conditional	negative	neg	N 
+672	Do you have a laptop computer?	Desktops are not portable, but tablets are not powerful enough	contrastive	negative	neg	N 
+673	Do you want to leave the job?	If a better one came along.	conditional	negative	positive	Neutral
+674	Do you want to leave the job?	If my boss can double my salary, I will consider staying.	sarcastic	negative	pos	P 
+675	Do you want to leave the job?	Every minute here is a waste of life.	contrastive	negative	neg	N 
+676	Do you want to leave the job?	I'm looking to get the same job with a different company.	ambiguous	negative	pos	P 
+677	Have you lived in Austin long?	If you can not figure out my local accent.	conditional	negative	neg	Neutral
+678	Are you enjoying your time here?	If you do not know I fall asleep super fast here.	conditional	negative	neg	Neutral
+679	Are you enjoying your time here?	I’ve smiled so much my face is starting to cramp.	sarcastic	negative	pos	P 
+680	Are you enjoying your time here?	I'd like to move here one day.	ambiguous	negative	pos	P 
+681	Do you like the city so far?	If the weather stays like this.	conditional	negative	neg	Neutral
+682	Do you like the city so far?	I’ve already picked out my future coffee shop.	sarcastic	negative	pos	P 
+683	Do you like the city so far?	I do not want to leave here.	ambiguous	negative	pos	P
+684	Is a view important?	If it’s of trees or water.	conditional	negative	pos	P 
+685	Is a view important?	I’ve rejected apartments because the tree outside looked depressed.	sarcastic	negative	neg	N
+686	Do you realize how much money that's going to be?	If I am not good at calculating, then I guess I do not know.	conditional	negative	negative	Neutral
+687	Do you realize how much money that's going to be?	I can’t even count how many zeros that is.	sarcastic	negative	positive	Neutral
+688	Do you realize how much money that's going to be?	That’s the kind of number that makes your bank account sweat.	contrastive	negative	neg	N
+689	Do you realize how much money that's going to be?	How many zeros are there?	ambiguous	negative	positive	Neutral
+690	Are you looking for the same kind of position as you had before?	If I could also do other things.	conditional	negative	positive	Neutral
+691	Are you looking for the same kind of position as you had before?	I'm only good at this area.	sarcastic	negative	positive	Neutral
+692	Are you looking for the same kind of position as you had before?	I'm looking for a similar job that pays better.	contrastive	negative	positive	Neutral
+693	Is the radio something you enjoy?	If it’s music and not ads.	conditional	negative	pos	Neutral
+694	Is the radio something you enjoy?	If loving old-school static and unexpected song choices is wrong, I don’t want to be right.	sarcastic	negative	positive	Neutral
+695	Do you like being responsible for others?	If they actually listen and don’t create chaos.	conditional	negative	pos	Neutral
+696	Do you like being responsible for others?	It’s not always easy, but I guess someone has to do it.	ambiguous	negative	Unclassified	Neutral
+697	Is the flat in Queens?	If it is not so expensive.	conditional	negative	negative	Neutral
+698	Is the flat in Queens?	Deep enough in Queens that pizza delivery feels like a long-distance relationship.	sarcastic	negative	neg	N
+699	Is the flat in Queens?	But not the busy part, way quieter than where I used to live in Brooklyn.	contrastive	negative	pos	P 
+700	Do you like New York?	If I did not come here then no.	conditional	negative	neg	N
+701	Do you like New York?	It never sleeps, and neither do I.	sarcastic	negative	pos	P 
+702	Do you like New York?	It is much better if I do not have to pay rent.	ambiguous	negative	neg	N
+703	Do you fancy a drink after your long journey?	If no alcohol.	conditional	negative	negative	Neutral
+704	Do you fancy a drink after your long journey?	We must drink for a whole night.	sarcastic	negative	pos	P 
+705	Do you fancy a drink after your long journey?	I am going to miss you more than alcohol.	contrastive	negative	neg	N
+706	Want to go somewhere in the Domain?	My credit card just trembled, but I’m in.	sarcastic	negative	pos	P 
+707	Want to go somewhere in the Domain?	What's the vibe you’re thinking?	ambiguous	negative	positive	Neutral
+708	Can you remember something that you absolutely loved reading?	If childhood favorites count.	conditional	negative	positive	Neutral
+709	Can you remember something that you absolutely loved reading?	I read it so many times the spine gave up.	sarcastic	negative	positive	N
+710	Can you remember something that you absolutely loved reading?	Nothing I’ve read recently even comes close.	contrastive	negative	neg	N 
+711	Are you doing something fun this weekend?	If the weather holds up.	conditional	negative	neg	Neutral
+712	Are you doing something fun this weekend?	We’ll see how fun they turn out.	contrastive	negative	neg	Neutral
+713	Are you doing something fun this weekend?	We're going to the zoo.	ambiguous	negative	pos	P 
+714	Are you staying in tonight?	If my blanket has a say.	conditional	negative	positive	Neutral
+715	Are you staying in tonight?	Unless my couch kicks me out, I’m not going anywhere.	sarcastic	negative	pos	Neutral
+716	Are you staying in tonight?	No big plans tonight.	contrastive	negative	negative	Neutral
+717	Are you staying in tonight?	Watching Netflix until I fall asleep.	ambiguous	negative	pos	P 
+718	Do you care about the lyrics at all?	If they hit emotionally.	conditional	negative	positive	P 
+719	Do you care about the lyrics at all?	I prefer clean lyrics.	contrastive	negative	positive	Neutral
+720	Do you care about the lyrics at all?	I always quote lyrics in my articles.	ambiguous	negative	pos	P 
+721	Do you get along with your coworkers?	If they do not invite me to their house to have dinner together.	conditional	negative	neg	N 
+722	is it cold outside?	If you do not see the snow.	conditional	negative	positive	Neutral
+723	is it cold outside?	It’s “hot drink required” cold.	sarcastic	negative	neg	N 
+724	is it cold outside?	10 degrees Celsius lower than yesterday.	contrastive	negative	negative	Neutral
+725	is it cold outside?	Nobody in the right mind would go out there without a coat.	ambiguous	negative	neg	N 
+726	Are you getting bored at work?	If you notice that I start to help others.	conditional	negative	pos	P 
+727	Are you getting bored at work?	I’ve mastered the art of pretending to be busy.	sarcastic	negative	pos	Neutral
+728	Are you getting bored at work?	I need something new to do.	ambiguous	negative	positive	Neutral
+729	Can you remember how long it's been since we saw each other?	If my memory’s not failing me, I think we were still using flip phones.	conditional	negative	positive	Neutral
+730	Can you remember how long it's been since we saw each other?	It feels like it’s been a whole decade, even if it probably hasn’t.	sarcastic	negative	neg	N 
+731	Can you remember how long it's been since we saw each other?	Roughly, but it feels like yesterday.	contrastive	negative	pos	P 
+732	Can you remember how long it's been since we saw each other?	The last time I saw you we were at the zoo.	ambiguous	negative	positive	Neutral
+733	Did you spend a lot of time building your career?	If I do not get high pay then no.	conditional	negative	negative	N 
+734	Did you spend a lot of time building your career?	Blood, sweat, and way too much coffee.	sarcastic	negative	positive	N 
+735	Did you spend a lot of time building your career?	I almost have no time for vacation.	contrastive	negative	neg	N 
+736	Did you spend a lot of time building your career?	I always work until 23p.m..	ambiguous	negative	negative	Neutral
+737	Would you ever learn to play piano?	If I had time and a very patient teacher.	conditional	negative	pos	Neutral
+738	Would you ever learn to play piano?	I’ve always loved the sound of piano, more than anything I can actually play.	contrastive	negative	pos	P 
+739	Would you ever learn to play piano?	I am going to buy a piano.	ambiguous	negative	pos	P 
+740	Can you afford to buy an apartment?	If I had not been putting money aside this whole time then no.	conditional	negative	negative	Neutral
+741	Can you afford to buy an apartment?	I can buy the whole city.	sarcastic	negative	pos	P 
+742	Can you afford to buy an apartment?	It is enough only for a single apartment.	contrastive	negative	positive	Neutral
+743	Can you afford to buy an apartment?	I am going to move in this month.	ambiguous	negative	positive	P 
+744	Are you staying long-term?	Unless something changes.	conditional	negative	neg	N 
+745	Are you staying long-term?	Unless I win the lottery and buy a big house right away.	sarcastic	negative	neg	N 
+746	Are you staying long-term?	I am working here.	ambiguous	negative	positive	Neutral
+747	Do you want to work remotely?	If I lived close to the company.	conditional	negative	negative	Neutral
+748	Do you want to work remotely?	I thrive in sweatpants at home.	sarcastic	negative	pos	P 
+749	Do you want to work remotely?	That is the long term goal.	ambiguous	negative	positive	Neutral
+750	Do you feel like having some dinner?	If I do not smell the potatoes and noodles then no.	conditional	negative	negative	N 
+751	Do you feel like having some dinner?	I can eat a whole cow.	sarcastic	negative	pos	Neutral
+752	Do you feel like having some dinner?	Salad for me instead of steak.	contrastive	negative	pos	Neutral
+753	Do you feel like having some dinner?	I'd like to have a burger.	ambiguous	negative	pos	P 
+754	Are you busy tonight?	If I do not have meeting then no.	conditional	negative	positive	Neutral
+755	Are you busy tonight?	I have no time for sleep.	sarcastic	negative	neg	N 
+756	Are you busy tonight?	busier than workdays.	contrastive	negative	positive	N 
+757	Are you busy tonight?	My wife and I have plans.	ambiguous	negative	neg	Neutral
+758	Are you into sight-seeing?	If it doesn’t involve waking up at 6 a.m. and following a flag.	conditional	negative	neg	N 
+759	Are you into sight-seeing?	I’ve taken more photos of buildings than I have of people.	sarcastic	negative	negative	Neutral
+760	Are you into sight-seeing?	I’d take a day of wandering through old streets over a beach nap any time.	contrastive	negative	pos	P 
+761	Are you into sight-seeing?	I do not like taking Sightseeing bus, I like going sight-seeing on foot.	ambiguous	negative	neg	Neutral
+762	Are you an avid reader?	If devouring books like snacks counts.	conditional	negative	pos	P 
+763	Do you remember the old lady that lived by the post office?	If I did not meet here yesterday again.	conditional	negative	negative	N 
+764	Do you enjoy a book series?	I read harry porter recently.	ambiguous	negative	positive	Neutral
+765	Want to grab a drink?	I would like to drink a whole night.	sarcastic	negative	positive	N 
+766	Want to grab a drink?	Let’s go somewhere chill.	contrastive	negative	pos	P 
+767	Do you like going to the lake?	If there’s a breeze and no bugs.	conditional	negative	pos	Neutral
+768	Do you like going to the lake?	I want to have a lake.	sarcastic	negative	neg	Neutral
+769	Do you like going to the lake?	It is suitable for daydreaming.	ambiguous	negative	positive	Neutral
+770	Do you play sports?	If you do not mean the professional competition.	conditional	negative	neg	Neutral
+771	Do you play sports?	I’m not pro, but I try it.	contrastive	negative	positive	Neutral
+772	Are you sure you're ready for that?	If you do not notice my confidence.	conditional	negative	positive	Neutral
+773	Are you sure you're ready for that?	I will definitely win all of you.	sarcastic	negative	pos	P
+774	You get married yet?	If loveless marriages count.	conditional	negative	neg	N
+775	You get married yet?	If you mean that being legally tied to someone I barely talk to.	sarcastic	negative	neg	N
+776	You get married yet?	The paperwork says yes, but the heart says otherwise.	contrastive	negative	negative	N 
+777	You get married yet?	Just for money.	ambiguous	negative	neg	N 
+778	Are you taking any work home to do over the weekend?	If it did not bother us too long, then no.	conditional	negative	negative	N 
+779	Are you taking any work home to do over the weekend?	I can finish it in a second.	sarcastic	negative	pos	P 
+780	Are you taking any work home to do over the weekend?	I want to have a good rest and a little bit preparation for next week.	contrastive	negative	pos	Neutral
+781	Are you taking any work home to do over the weekend?	I have a project to finish for Monday.	ambiguous	negative	positive	Neutral
+782	Are you in any weekend leisure sports teams?	If you mean the match I would never play again.	conditional	negative	neg	N 
+783	Are you in any weekend leisure sports teams?	I almost forgot we lost the game last week, why do you remind me?	sarcastic	negative	neg	N 
+784	Are you in any weekend leisure sports teams?	I do not want to have any match any more.	contrastive	negative	neg	N 
+785	Do you enjoy the theater?	I do not go often.	ambiguous	negative	negative	Neutral
+786	Are you considering a career change?	If I could get more.	conditional	negative	negative	Neutral
+787	Does it have to be in the city itself?	If I do not live in city center.	conditional	negative	negative	N 
+788	Does it have to be in the city itself?	If it’s not in the city, my sense of direction will instantly betray me.	sarcastic	negative	positive	N 
+789	Does it have to be in the city itself?	Center is much more convenient.	contrastive	negative	pos	P 
+790	Does it have to be in the city itself?	It's Manhattan or nothing.	ambiguous	negative	positive	N 
+791	Are you a fan of superheros?	I would not say that Spiderman is super star.	contrastive	negative	neg	N 
+792	Are you going to any concerts this year?	Unless they canceled it.	conditional	negative	neg	N 
+793	Are you going to any concerts this year?	The closer one on the weekend.	contrastive	negative	positive	Neutral
+794	Do you like doing yard work?	If I do not need to care of my flowers and vegetables.	conditional	negative	pos	Neutral
+795	Do you like doing yard work?	Instead I do not like doing housework.	contrastive	negative	neg	N 
+796	Do you like doing yard work?	I just bought two new plants.	ambiguous	negative	pos	P 
+797	Are you happy with your work life balance?	If I do not share my interesting life with you everyday.	conditional	negative	neg	N 
+798	Are you happy with your work life balance?	Nothing is unhappy.	sarcastic	negative	positive	Neutral
+799	Are you happy with your work life balance?	Don't I share more joy than complaint with you?	contrastive	negative	pos	Neutral
+800	Are you happy with your work life balance?	I just want to keep it.	ambiguous	negative	positive	Neutral
+801	Do you prefer healthy food?	If my doctor suggests me not to eat healthy food then no.	conditional	negative	neg	N 
+802	Do you like adventure stories?	If they don’t involve someone hiking for 200 pages.	conditional	negative	neg	Neutral
+803	Do you like adventure stories?	More than romance novels, I need some action to stay awake.	contrastive	negative	pos	P 
+804	Do you like adventure stories?	I just bought a book about rainforest survival.	ambiguous	negative	pos	P 
+805	Do you listen to a lot of music?	If there is not music anymore.	conditional	negative	neg	N 
+806	Do you listen to a lot of music?	I can not live without my apple music app.	sarcastic	negative	pos	P 
+807	Do you listen to a lot of music?	My music library takes up most of the room on my phone.	contrastive	negative	pos	P 
+808	Do you know anyone there?	If I did not invite them then no.	conditional	negative	negative	Neutral
+809	Do you know anyone there?	But not as familiar as you.	contrastive	negative	negative	N 
+810	Do you know anyone there?	Do you see the girl in blue?	ambiguous	negative	neg	Neutral
+811	Did you move from somewhere else in town?	If I need to come here by train then no.	conditional	negative	negative	Neutral
+812	Did you move from somewhere else in town?	I come here only by bike instead of train.	contrastive	negative	positive	Neutral
+813	Did you move from somewhere else in town?	I didn’t come from too far away.	ambiguous	negative	positive	Neutral
+814	Have you heard of the Father Brown mysteries?	If catching a few episodes on TV late at night counts.	conditional	negative	positive	Neutral
+815	Have you heard of the Father Brown mysteries?	it’s a bit more subtle than most modern detective shows.	contrastive	negative	positive	Neutral
+816	Are you an animal lover?	If I do not have three cats and dog at home.	conditional	negative	neg	Neutral
+817	Do you like ethnic food?	If it’s not too spicy and I can pronounce the name.	conditional	negative	pos	Neutral
+818	Do you like ethnic food?	Let’s just say my passport gets jealous of my dinner plate.	sarcastic	negative	pos	P 
+819	Do you want to go out tonight?	If it doesn’t involve loud crowds or waiting in line.	conditional	negative	pos	Neutral
+820	Do you want to go out tonight?	I’d go anywhere that isn’t my desk.	sarcastic	negative	neg	N 
+821	Do you want to go out tonight?	Why not?	ambiguous	negative	pos	P 
+822	Are you getting settled into your new place?	If by ‘settled’ you mean the boxes are at least in the right rooms.	conditional	negative	Unclassified	N 
+823	Are you getting settled into your new place?	The room is filled with boxes.	sarcastic	negative	negative	Neutral
+824	Are you getting settled into your new place?	It will take a lot of time to clean up.	contrastive	negative	neg	N 
+825	Are you getting settled into your new place?	I'm slowly getting familiar with it.	ambiguous	negative	positive	Neutral
+826	Do you live nearby?	If I can not arrive here to meet you in five minutes.	conditional	negative	neg	N 
+827	Do you live nearby?	Those streets all belong to me.	sarcastic	negative	pos	P 
+828	Do you live nearby?	I live a few miles away.	ambiguous	negative	positive	P 
+829	Would you like to properly catch up some time?	When we both have time.	conditional	negative	pos	Neutral
+830	Would you like to properly catch up some time?	I think the last time we actually caught up, phones still had buttons.	sarcastic	negative	neg	N 
+831	Would you like to properly catch up some time?	I’d take that over another endless Zoom meeting any day.	contrastive	negative	pos	P 
+832	Would you like to properly catch up some time?	How about tonight?	ambiguous	negative	pos	Neutral
+833	Do you still like classical music?	If there were no clssical any more.	conditional	negative	neg	N 
+834	Do you still like classical music?	It never really left my playlist.	sarcastic	negative	pos	P 
+835	Do you still like classical music?	Especially when I want to relax.	contrastive	negative	pos	P 
+836	Will you be able to manage the payments?	 I need to learn to photosynthesize.	sarcastic	negative	neg	N 
+837	Will you be able to manage the payments?	I just got paid.	ambiguous	negative	pos	P 
+838	Are you okay to sleep on the sofa tonight?	If I can have a pillow.	conditional	negative	pos	Neutral
+839	Are you okay to sleep on the sofa tonight?	Sofa is also a bed.	sarcastic	negative	pos	Neutral
+840	Are you okay to sleep on the sofa tonight?	I’ve had worse.	contrastive	negative	pos	P 
+841	Are you okay to sleep on the sofa tonight?	I usually end up napping on the couch in the mornings.	ambiguous	negative	pos	Neutral
+842	Did you play a music instrument growing up?	If struggling through piano lessons counts.	conditional	negative	neg	Neutral
+843	Did you play a music instrument growing up?	The neighbors still remember my violin phase.	sarcastic	negative	positive	P 
+844	Did you play a music instrument growing up?	But video games definitely won that battle.	contrastive	negative	negative	N 
+845	Did you play a music instrument growing up?	I only played piano until 15.	ambiguous	negative	positive	Neutral
+846	Have you tried that new Thai restaurant on the high street ?	If I wasn't curious, I wouldn't have gone there on the first day of opening.	conditional	negative	pos	Neutral
+847	Have you tried that new Thai restaurant on the high street ?	I know the opening times of new restaurant all over the city.	sarcastic	negative	positive	Neutral
+848	Have you tried that new Thai restaurant on the high street ?	Not better than the one that we usually go to.	contrastive	negative	negative	Neutral
+849	Have you heard of Alt J?	If listening to them on a random playlist counts	conditional	negative	positive	Neutral
+850	Have you heard of Alt J?	I once listened to Breezeblocks on loop for a week straight.	sarcastic	negative	pos	P 
+851	Have you heard of Alt J?	They’re way more experimental than what I usually listen to	contrastive	negative	positive	Neutral
+852	Have you heard of Alt J?	I’ve come across a few of their tracks.	ambiguous	negative	pos	Neutral
+853	Can we go for a walk?	If you insist of it.	conditional	negative	neg	N 
+854	Can we go for a walk?	I want to stretch my legs.	ambiguous	negative	pos	P 
+855	Do you like to read about true events?	I read news everyday.	ambiguous	negative	pos	P 
+856	Do you live in this city?	If my family do not live here then no.	conditional	negative	negative	N 
+857	Have you been traveling?	We just got back from Istanbul.	ambiguous	negative	pos	P 
+858	Is it important to you to be close to the train?	If I do not have to catch the train in the early morning.	conditional	negative	positive	Neutral
+859	Is it important to you to be close to the train?	I would miss the train because we were moving at a turtle's pace.	sarcastic	negative	neg	N 
+860	Is it important to you to be close to the train?	It is more important than close to a supermarket.	contrastive	negative	positive	Neutral
+861	Want to get some dinner together?	If you also want to eat hot pot.	conditional	negative	pos	Neutral
+862	Want to get some dinner together?	I'm going to finish the menu.	sarcastic	negative	pos	Neutral
+863	Want to get some dinner together?	Steak sounds better than salad.	contrastive	negative	pos	P 
+864	Do you like living in a flat?	If noise control is good.	conditional	negative	positive	Neutral
+865	Do you like living in a flat?	I'm not a millionaire.	sarcastic	negative	neg	N 
+866	Do you like living in a flat?	Though I miss having a yard.	contrastive	negative	neg	Neutral
+867	Do you like living in a flat?	Nothing wrong with it.	ambiguous	negative	positive	Neutral
+868	Have you continued doing sports?	If I am not the member of the tennis club.	conditional	negative	negative	Neutral
+869	Have you continued doing sports?	I used to play tennis every week but now I go to swimming twice a week.	contrastive	negative	pos	Neutral
+870	Have you continued doing sports?	I played tennis twice a week.	ambiguous	negative	positive	P 
+871	Hey if you're up to it, would you like to hit the gym with me in the morning?	If you can train me.	conditional	negative	neg	Neutral
+872	Have you been having fun?	Though the food here is not very good but the view is unique.	contrastive	negative	negative	N 
+873	Do you work from home?	If I do not catch a cold.	conditional	negative	negative	Neutral
+874	Do you work from home?	I am a part of my house.	sarcastic	negative	positive	Neutral
+875	Do you work from home?	It is more comfortable when I work in my pajamas.	contrastive	negative	pos	P 
+876	Do you work from home?	But I can not focus myself on my work.	ambiguous	negative	neg	N 
+877	Do you feel like sharing a pizza with me?	If you do not have arugula as topping.	conditional	negative	neg	N 
+878	Do you feel like sharing a pizza with me?	You’re like a mind reader, I swear you know what I’m thinking before I even say it!	sarcastic	negative	pos	P 
+879	Do you feel like sharing a pizza with me?	I can not eat a whole pizza by myself.	contrastive	negative	neg	Neutral
+880	Do you feel like sharing a pizza with me?	I am a little bit hungry.	ambiguous	negative	pos	Neutral
+881	Did you find my place OK?	When will you move out and I move in?	sarcastic	negative	neg	N 
+882	Did you find my place OK?	This is not ok, this is the best.	contrastive	negative	positive	P 
+883	Did you find my place OK?	I would like to copy you idea.	ambiguous	negative	positive	Neutral
+884	Would you like a glass of water?	If it doesn't bother you.	conditional	negative	neg	Neutral
+885	Would you like a glass of water?	I’d drink a whole lake right now!	sarcastic	negative	pos	P 
+886	Would you like a glass of water?	Can I also have a slice of lemon?	ambiguous	negative	pos	Neutral
+887	Do you have a full time job?	If I do not work 8 hours from Monday to Friday.	conditional	negative	neg	N 
+888	Do you have a full time job?	Just a little something that eats up my entire life.	sarcastic	negative	neg	N 
+889	Do you have a full time job?	I used to have freelancing gigs.	contrastive	negative	negative	Neutral
+890	Are you interested in cars?	If I do not need to drive them.	conditional	negative	neg	Neutral
+891	Are you interested in cars?	Not so much into bikes or planes.	contrastive	negative	neg	Neutral
+892	Are you interested in cars?	I usually go to the car fair.	ambiguous	negative	pos	P 
+893	Do you have a realtor?	If I do not have to find a nice house.	conditional	negative	positive	Neutral
+894	Do you have a realtor?	Just like everyone else in this crazy market.	sarcastic	negative	positive	Neutral
+895	Do you have a realtor?	After trying to navigate this alone and getting nowhere.	contrastive	negative	negative	N 
+896	Do you have a realtor?	I can send her number to you.	ambiguous	negative	pos	P 
+897	Do you enjoy traveling?	As long as I'm not banned from traveling.	conditional	negative	neg	N 
+898	Do you enjoy traveling?	I live for airport snacks and maps.	sarcastic	negative	pos	P 
+899	Do you enjoy traveling?	How boring it is to always stay in the same place.	contrastive	negative	neg	N 
+900	Do you live here?	As long as the rent doesn’t go up again.	conditional	negative	positive	Neutral
+901	Do you live here?	I only sleep here, eat here, get my mail here... what do you think?	sarcastic	negative	positive	Neutral
+902	Do you live here?	I used to move around a lot.	contrastive	negative	negative	Neutral
+903	Do you live here?	Would you like to go upstairs and have a look?	ambiguous	negative	positive	Neutral
+904	Are there things you'd prefer not to eat today?	If you are also do not want to eat fish.	conditional	negative	positive	Neutral
+905	Are there things you'd prefer not to eat today?	I was defeated by the pepper.	sarcastic	negative	neg	N 
+906	Are there things you'd prefer not to eat today?	Just not in the mood for anything too heavy.	contrastive	negative	pos	Neutral
+907	Are there things you'd prefer not to eat today?	Spicy probably wouldn't work for me.	ambiguous	negative	positive	Neutral
+908	Are you interested in a new industry?	I’ve only been dreaming about switching industries every Monday morning!	sarcastic	negative	pos	P 
+909	Have you met the HOA president?	"If by ""met"" you mean had a five-minute lecture on lawn regulations."	conditional	negative	neg	N 
+910	Have you met the HOA president?	You mean the guy who acts like he's the mayor of a small country?	sarcastic	negative	neg	N 
+911	Have you met the HOA president?	We had a coffee talk.	ambiguous	negative	positive	P 
+912	How about going to the new local pub?	If they’ve got fries.	conditional	negative	pos	Neutral
+913	Are you happy to be switching jobs?	If things go as planned.	conditional	negative	positive	Neutral
+914	Are you happy to be switching jobs?	I could use more time with the kids.	ambiguous	negative	neg	Neutral
+915	Do you like staying busy at work?	If it keeps me from clock-watching.	conditional	negative	pos	Neutral
+916	Do you like staying busy at work?	I don’t do well with boredom.	sarcastic	negative	pos	P 
+917	Have you worked in your company for a long time?	Long enough to remember when we still used fax machines.	sarcastic	negative	positive	Neutral
+918	Have you worked in your company for a long time?	I only joined a year after the founder.	contrastive	negative	negative	Neutral
+919	Have you worked in your company for a long time?	I am one of the founder.	ambiguous	negative	positive	P 
+920	Are you into athletics?	Only every single day since I learned to walk!	sarcastic	negative	pos	P 
+921	Are you into athletics?	I’m not a fan of watching sports, I must experience it myself.	contrastive	negative	neg	Neutral
+922	Are you into athletics?	I run a boxing gym.	ambiguous	negative	pos	P 
+923	Do you like to go to the movies?	I live in cinema.	sarcastic	negative	pos	P 
+924	Do you work too much?	If I did not have a good pay.	conditional	negative	positive	Neutral
+925	Do you work too much?	My laptop never rests.	sarcastic	negative	neg	N 
+926	Do you work too much?	This isn’t nearly as much work as I thought the job would have.	contrastive	negative	pos	P 
+927	Do you work too much?	I usually don’t get off work until 10 p.m.	ambiguous	negative	neg	N 
+928	Have you improved your English skills since childhood?	If I have not lived in the UK for 5 years.	conditional	negative	neg	Neutral
+929	Have you improved your English skills since childhood?	I am a total local speaker.	sarcastic	negative	neg	N 
+930	Have you improved your English skills since childhood?	The English I learned when I was a kid was the English of foreigners, but now it is the local English of the UK.	contrastive	negative	positive	Neutral
+931	Have you improved your English skills since childhood?	My boyfriend is British.	ambiguous	negative	positive	Neutral
+932	Do you have a job lined up?	After sending out a hundred applications.	sarcastic	negative	negative	N 
+933	Do you have a job lined up?	It is time to do something unlike a few weeks ago.	contrastive	negative	negative	Neutral
+934	Do you have a job lined up?	I've already applied for a transfer.	ambiguous	negative	positive	Neutral
+935	Are you living in the city now?	As long as rent doesn’t go up again.	conditional	negative	pos	Neutral
+936	Are you living in the city now?	But I miss the peace and quiet of the countryside.	contrastive	negative	neg	N 
+937	Are you living in the city now?	I've been downtown for the last two years.	ambiguous	negative	positive	P 
+938	Will I be seeing you tomorrow for work?	Unless I am sick tonight.	conditional	negative	neg	N 
+939	Will I be seeing you tomorrow for work?	Same time, same place.	ambiguous	negative	pos	Neutral
+940	Shall we arrange to meet again soon?	If you already know a specific meeting point.	conditional	negative	pos	Neutral
+941	Shall we arrange to meet again soon?	How about next Sunday afternoon?	ambiguous	negative	pos	Neutral
+942	Have you found a job already?	If I did not signed the contract then no.	conditional	negative	negative	N 
+943	Have you found a job already?	Everyone has a job.	sarcastic	negative	pos	P 
+944	Have you found a job already?	Not my dream job.	contrastive	negative	neg	N 
+945	How about a collection by various authors?	The more authors, the more chances for brilliance, what could possibly go wrong?	sarcastic	negative	pos	P 
+946	Does your house have a swimming pool?	If you called the hole in winter also a pool.	conditional	negative	neg	Neutral
+947	Does your house have a swimming pool?	 In the winter it looks more like an empty crater than a pool.	sarcastic	negative	neg	N 
+948	Does your house have a swimming pool?	In winter it’s more of a decorative hole with no water.	contrastive	negative	neg	N 
+949	Does your house have a swimming pool?	There is no water in winter so we can not swim there.	ambiguous	negative	negative	N 
+950	Do you like to attend neighborhood events like house or block parties?	I attended the small one last Sunday.	ambiguous	negative	pos	P 
+951	Do you like non fiction?	More than fiction lately—I just find real stories more engaging.	contrastive	negative	pos	P 
+952	Do you like non fiction?	I have just finished one.	ambiguous	negative	pos	Neutral
+953	Do you still go to the ice cream shop we loved?	If I’m nearby or it’s a hot day.	conditional	negative	pos	Neutral
+954	Do you still go to the ice cream shop we loved?	Though not as much as we used to.	contrastive	negative	positive	Neutral
+955	Do you still go to the ice cream shop we loved?	There is a new taste of chocolate ginger.	ambiguous	negative	positive	Neutral
+956	Do you want to grab a drink?	Gin is better than wasser.	contrastive	negative	positive	P 
+957	Do you want to grab a drink?	I have a little time to kill.	ambiguous	negative	positive	Neutral
+958	Is there an activity you really enjoy doing?	I love hiking, though I don’t get to do it often.	contrastive	negative	pos	P 
+959	Have you enjoy cooking?	Me and burnt toast are a dynamic duo.	sarcastic	negative	neg	N 
+960	Have you enjoy cooking?	Although food delivery makes life easier.	contrastive	negative	Unclassified	N 
+961	Have you enjoy cooking?	I usually cook for five hours after exams.	ambiguous	negative	pos	P 
+962	Is it close to all the places you like?	As long as I don’t change my favorite spots too often.	conditional	negative	pos	Neutral
+963	Do you have a neighborhood in mind?	if rent magically drops by half and there's zero traffic.	conditional	negative	negative	N 
+964	Do you have a neighborhood in mind?	I've narrowed it down to three.	ambiguous	negative	positive	P 
+965	Do you go to bookstores?	If I pass by.	conditional	negative	positive	Neutral
+966	Do you go to bookstores?	Where else can I spend hours doing nothing?	sarcastic	negative	pos	P 
+967	Do you go to bookstores?	But I prefer reading in a library.	contrastive	negative	negative	Neutral
+968	Do you like the neighborhood?	If I did not live here for a long time.	conditional	negative	neg	N 
+969	Do you like the neighborhood?	I can even not  forget the name of every dogs here.	sarcastic	negative	pos	P 
+970	Do you like the neighborhood?	I would rather quit my job since it is far away.	contrastive	negative	neg	N 
+971	Do you like the neighborhood?	I would never tell you I want to buy one here.	ambiguous	negative	neg	N 
+972	Do you know what time you have to leave to head back home yet?	If things go smoothly, probably in the early evening.	conditional	negative	pos	P 
+973	Do you know what time you have to leave to head back home yet?	My internal alarm is already ticking.	sarcastic	negative	pos	P 
+974	Do you know what time you have to leave to head back home yet?	I’ve got a rough idea, but still flexible.	contrastive	negative	positive	Neutral
+975	Do you know what time you have to leave to head back home yet?	I’m playing it by ear.	ambiguous	negative	neg	Neutral
+976	Want to go to the library to browse?	I live for shelves and silence.	sarcastic	negative	pos	P 
+977	Want to go to the library to browse?	I’ve been meaning to rather than staying here.	contrastive	negative	negative	Neutral
+978	Have you been active in the community before?	I practically had a name tag.	sarcastic	negative	pos	P 
+979	Have you been active in the community before?	I'm not so engaged as you've been.	contrastive	negative	negative	N 
+980	Would you like to join me for a beer?	If you’ve got a favorite spot.	conditional	negative	pos	Neutral
+981	Would you like to join me for a beer?	Can you beat me this time?	sarcastic	negative	neg	N 
+982	Have you heard the latest Selena Gomez song?	If I hadn't happened to hear it, while I was watching TV.	conditional	negative	negative	Neutral
+983	Have you heard the latest Selena Gomez song?	I'm just playing it on repeat like a teenager.	sarcastic	negative	pos	P 
+984	Have you heard the latest Selena Gomez song?	But I'd rather listen to Justin Bieber's songs.	contrastive	negative	neg	N 
+985	Have you heard the latest Selena Gomez song?	I can not stop to think about the beat.	ambiguous	negative	pos	P 
+986	Do you ever see any other of our old childhood friends?	If I do not work with Anna.	conditional	negative	negative	Neutral
+987	Do you ever see any other of our old childhood friends?	But only when the planets align and everyone’s phones actually work.	sarcastic	negative	neg	N 
+988	Do you ever see any other of our old childhood friends?	Not as much as I go grocery shopping.	contrastive	negative	Unclassified	Neutral
+989	Do you ever see any other of our old childhood friends?	Our town is small.	ambiguous	negative	positive	Neutral
+990	Want to try a trendy new place?	As long as it's not too crowded.	conditional	negative	pos	Neutral
+991	Want to try a trendy new place?	Should we drive there or take bus?	ambiguous	negative	negative	Neutral
+992	Have you met your new neighbors?	As long as you count waving from across the street as 'meeting'.	conditional	negative	pos	Neutral
+993	Have you met your new neighbors?	I already know their dog's name, favorite wine, and what they had for dinner last night.	sarcastic	negative	pos	P 
+994	Want me to show you around?	If you’re offering.	conditional	negative	positive	Neutral
+995	Want me to show you around?	Go around alone seems a little bit boring.	contrastive	negative	neg	N 
+996	Want me to show you around?	Let us buy coffee as a start.	ambiguous	negative	pos	Neutral
+997	Can you deal with the commute?	If I’ve got coffee and podcasts.	conditional	negative	pos	P 
+998	Can you deal with the commute?	It’s practically a meditation session at this point.	sarcastic	negative	pos	P 
+999	Can you deal with the commute?	It's easier than doing my job.	contrastive	negative	pos	N 
+1000	Can you deal with the commute?	I usually listen to music or chat with others.	ambiguous	negative	pos	P 
+1001	Did you find that you often used public transportation?	If it was running on time.	conditional	negative	pos	Neutral
+1002	Did you find that you often used public transportation?	I practically lived on the bus.	sarcastic	negative	pos	P 
+1003	Did you find that you often used public transportation?	I can not drive.	ambiguous	negative	negative	N 
+1004	Do you want fast food?	If it’s fries you’re offering.	conditional	negative	pos	P 
+1005	Do you want fast food?	I always eat something healthier, but fast food is life.	contrastive	negative	positive	Neutral
+1006	Would you live there again if you had the chance?	If the rent stayed the same.	conditional	negative	positive	Neutral
+1007	Would you live there again if you had the chance?	There is a part of my life.	sarcastic	negative	positive	Neutral
+1008	Would you live there again if you had the chance?	I prefer the old town than the place where I live now.	contrastive	negative	positive	N 
+1009	Are your parents doing good?	If daily phone calls are any sign.	conditional	negative	positive	Neutral
+1010	Will you be decorating for the holidays?	If decorating were a job, I'd be the CEO.	sarcastic	negative	pos	P 
+1011	Are you living alone?	If plants count as roommates, no.	conditional	negative	positive	Neutral
+1012	Are you living alone?	I have a roommate, my plant.	sarcastic	negative	pos	Neutral
+1013	Are you living alone?	However it gets quiet sometimes.	contrastive	negative	positive	Neutral
+1014	Are you living alone?	I might want to get a roommate.	ambiguous	negative	positive	Neutral
+1015	Are you looking to earn more money?	I dream of gold-plated grocery carts.	sarcastic	negative	pos	N 
+1016	Do you have any future plans regarding your wage?	I’ve got a five-step plan to riches.	sarcastic	negative	pos	P 
+1017	Do you have any future plans regarding your wage?	I'm looking for a job with more income.	contrastive	negative	neg	N 
+1018	Do you have any future plans regarding your wage?	Spending and saving.	ambiguous	negative	positive	Neutral
+1019	Are you willing to travel 5 miles?	If the weather’s decent.	conditional	negative	pos	Neutral
+1020	Are you willing to travel 5 miles?	Though most time I’d prefer to drive.	contrastive	negative	Unclassified	Neutral
+1021	Are you willing to travel 5 miles?	Oh, 5 miles are not short.	ambiguous	negative	neg	Neutral
+1022	Do you have any places in mind you want to go?	If I had a map right now, I’d circle five.	conditional	negative	pos	P 
+1023	Are there too many deadlines?	Only If it is the end of each semester.	conditional	negative	positive	Neutral
+1024	Are there too many deadlines?	I use a calendar just to panic.	sarcastic	negative	neg	N 
+1025	Are there too many deadlines?	But not as many as my boyfriend's.	contrastive	negative	positive	Neutral
+1026	Are there too many deadlines?	Feels that way sometimes.	ambiguous	negative	positive	Neutral
+1027	Alright man, now that you're here do you want to grab some Texas barbecue?	If you’re buying.	conditional	negative	pos	Neutral
+1028	Alright man, now that you're here do you want to grab some Texas barbecue?	Texas barbecue is better than hamburgers.	contrastive	negative	pos	P 
+1029	Alright man, now that you're here do you want to grab some Texas barbecue?	Do we have the wood to make fire?	ambiguous	negative	neg	Neutral
+1030	Are you studying somewhere?	If podcasts count.	conditional	negative	positive	Neutral
+1031	Are you studying somewhere?	I’m buried in books and deadlines.	sarcastic	negative	positive	N 
+1032	Are you studying somewhere?	Now I’m only part-time now.	contrastive	negative	positive	Neutral
+1033	Are you studying somewhere?	Life is just about studying.	ambiguous	negative	positive	Neutral
+1034	Do you take a drink with your food?	If you do not mind sparkling water.	conditional	negative	pos	Neutral
+1035	Do you take a drink with your food?	Maybe not enough.	contrastive	negative	negative	Neutral
+1036	Do you take a drink with your food?	I only have cola.	ambiguous	negative	positive	Neutral
+1037	Do you like burger places?	If the buns are toasted.	conditional	negative	pos	Neutral
+1038	Do you like burger places?	I judge cities by their burgers.	sarcastic	negative	positive	P 
+1039	Do you like burger places?	I try to eat less hamburgers.	contrastive	negative	neg	N 
+1040	Do you like burger places?	I used to eat burgers every week.	ambiguous	negative	pos	P 
+1041	Do you like a variety of food?	If it smells good.	conditional	negative	positive	Neutral
+1042	Do you like a variety of food?	I still do not change the favorites.	contrastive	negative	neg	N 
+1043	Do you like a variety of food?	I eat different food for each meal.	ambiguous	negative	pos	P 
+1044	Do you enjoy outdoor sports?	If the weather’s right.	conditional	negative	pos	Neutral
+1045	Do you enjoy outdoor sports?	Me and sunshine have a deal.	sarcastic	negative	pos	Neutral
+1046	Do you enjoy outdoor sports?	However I’m more into indoor stuff, I do not give up outdoors.	contrastive	negative	neg	Neutral
+1047	Do you have a lot of hobbies?	I collect hobbies like mugs.	sarcastic	negative	positive	P 
+1048	Do you have a lot of hobbies?	But not as many as my little brother who is always staring something new.	contrastive	negative	negative	N 
+1049	Do you like reading self help books?	If they’re not too preachy.	conditional	negative	pos	Neutral
+1050	Do you like reading self help books?	I fix my life one chapter at a time.	sarcastic	negative	pos	P 
+1051	Do you like reading self help books?	I prefer self help books to fiction.	contrastive	negative	pos	P 
+1052	Do you like reading self help books?	I've read a book about anxiety.	ambiguous	negative	pos	Neutral
+1053	Can you see yourself living in a condo?	I was born for compact luxury.	sarcastic	negative	pos	P 
+1054	Can you see yourself living in a condo?	Though I like having more space, a condo is another lifestyle.	contrastive	negative	pos	Neutral
+1055	Can you see yourself living in a condo?	I used to live in a 18 sqm room.	ambiguous	negative	neg	N 
+1056	Do you make any music?	If humming in the shower counts.	conditional	negative	positive	Neutral
+1057	Do you make any music?	I’m secretly a one-person band.	sarcastic	negative	pos	P 
+1058	Do you make any music?	I spend more time playing music than listening to it.	contrastive	negative	pos	P 
+1059	Do you make any music?	I just sing in my own way.	ambiguous	negative	positive	Neutral
+1060	Do you like your co-workers?	If we did not know each other then no.	conditional	negative	neg	N 
+1061	Do you like your co-workers?	They’re cool overall.	ambiguous	negative	pos	P 
+1062	In work, do you find yourself to be analytical?	If the problem needs solving.	conditional	negative	positive	Neutral
+1063	In work, do you find yourself to be analytical?	I overthink with style.	sarcastic	negative	positive	Neutral
+1064	In work, do you find yourself to be analytical?	Though I lean creative sometimes.	contrastive	negative	positive	Neutral
+1065	Were you young when you first went to a concert?	If screaming at a boy band at 12 counts.	conditional	negative	positive	N 
+1066	Were you young when you first went to a concert?	When I was in a stroller.	sarcastic	negative	neg	Neutral
+1067	Were you young when you first went to a concert?	At 12, younger than my big brother.	contrastive	negative	positive	P 
+1068	Were you young when you first went to a concert?	My mom used to go to concerts in a stroller.	ambiguous	negative	neg	P 
+1069	Is the baby doing good?	If smiles and messy naps mean anything.	conditional	negative	pos	Neutral
+1070	Is the baby doing good?	You do not mean that you expect the baby run around the room?	sarcastic	negative	neg	Neutral
+1071	Is the baby doing good?	I was not so quieter als I was a baby.	contrastive	negative	neg	N 
+1072	Is the baby doing good?	Drink milk when he is  hungry and sleep when he is tired.	ambiguous	negative	pos	Neutral
+1073	Do you have kids?	If you didn't notice the girl who just said hello to me.	conditional	negative	neg	Neutral
+1074	Do you have kids?	I do not have kids, I only have my heart.	sarcastic	negative	neg	Neutral
+1075	Do you have kids?	What I really want is a child who’s calm and well-behaved.	contrastive	negative	pos	Neutral
+1076	Do you have kids?	I don't want to experience the pain of pregnancy anymore.	ambiguous	negative	neg	N 
+1077	Did you move here for work?	If job hunting counts.	conditional	negative	positive	Neutral
+1078	Did you move here for work?	Me and my resume packed together.	sarcastic	negative	positive	Neutral
+1079	Have you heard from our old friend Jill recently?	If I hadn't spoken to her on the phone last week.	conditional	negative	pos	P 
+1080	Have you heard from our old friend Jill recently?	It seems like a century has passed when I met her again.	sarcastic	negative	negative	N 
+1081	Have you been to any jazz shows?	If sidewalk sax players count.	conditional	negative	positive	Neutral
+1082	Have you been to any jazz shows?	I go when I want to feel extra classy.	sarcastic	negative	pos	P 
+1083	Have you been to any jazz shows?	I'm more into classical music.	contrastive	negative	negative	Neutral
+1084	Have you been to any jazz shows?	My friend has once invited me to a club.	ambiguous	negative	positive	Neutral
+1085	Have you decided if you are coming to the pub with us?	If you are leaving at 6 or later when I will have finished my tasks.	conditional	negative	pos	Neutral
+1086	Have you decided if you are coming to the pub with us?	I just need to double-check.	ambiguous	negative	Unclassified	Neutral
+1087	Have you seen anyone else from back then recently?	If we do not work in a firma.	conditional	negative	negative	Neutral
+1088	Have you seen anyone else from back then recently?	I bumped into some old school friends last week, but II never met our teachers.	contrastive	negative	positive	P 
+1089	Have you seen anyone else from back then recently?	Anna is my neighbor.	ambiguous	negative	positive	Neutral
+1090	Do you enjoy gardening?	If things don’t die on me.	conditional	negative	neg	N 
+1091	Do you like local theater?	If it was not close to me then no.	conditional	negative	negative	N 
+1092	Do you like local theater?	As a foreigner, this is new to me.	contrastive	negative	Unclassified	Neutral
+1093	Do you want to hang out?	If you’re free later.	conditional	negative	pos	Neutral
+1094	Do you want to hang out?	I live for spontaneous plans.	sarcastic	negative	pos	P 
+1095	Do you want to hang out?	I just need to finish something first.	contrastive	negative	Unclassified	Neutral
+1096	Are you going out Saturday night?	If I’m not passed out by 9.	conditional	negative	neg	N 
+1097	Are you going out Saturday night?	I’m bringing my best dance moves and worst shoes.	sarcastic	negative	pos	Neutral
+1098	Are you going out Saturday night?	I also want to go out Friday night but I must wait at home.	contrastive	negative	neg	Neutral
+1099	Are you a fan of the Harry Potter series?	If we’re talking books more than movies.	conditional	negative	positive	Neutral
+1100	Are you a fan of the Harry Potter series?	I still wait for my Hogwarts letter.	sarcastic	negative	neg	Neutral
+1101	Are you a fan of the Harry Potter series?	I liked it a lot growing up, though I've moved on to other things.	contrastive	negative	pos	P 
+1102	Are you still as fun as you were when we were young?	If you count board game nights as wild.	conditional	negative	positive	Neutral
+1103	Are you still as fun as you were when we were young?	You will figure it out by yourself.	ambiguous	negative	neg	Neutral
+1104	Have you ever been bowling?	If gutter balls count.	conditional	negative	Unclassified	Neutral
+1105	Have you ever been bowling?	But not as much as football.	contrastive	negative	negative	Neutral
+1106	Have you ever been bowling?	There is a club near my house.	ambiguous	negative	positive	Neutral
+1107	Is the flat affordable?	As long as you don't mind cutting back on some other expenses.	conditional	negative	positive	Neutral
+1108	Is the flat affordable?	If you're a millionaire, it's a total bargain.	sarcastic	negative	positive	N 
+1109	Is the flat affordable?	I still have some savings.	ambiguous	negative	positive	Neutral
+1110	Do you have a pet?	My cat rules the place.	sarcastic	negative	pos	P 
+1111	Do you have a pet?	Unlike my friend who thinks pets are too much responsibility.	contrastive	negative	neg	N 
+1112	Have you had a good life so far?	If I do not have a good family then no.	conditional	negative	negative	N 
+1113	Have you had a good life so far?	It’s had ups and downs, but does not let me down in general.	contrastive	negative	pos	Neutral
+1114	Have you had a good life so far?	I never worry about my life.	ambiguous	negative	pos	Neutral
+1115	Do you work in the same city?	If I do not look for a new job.	conditional	negative	negative	N  
+1116	Do you work in the same city?	My life is no difference.	sarcastic	negative	negative	N  
+1117	Do you work in the same city?	Commute’s still terrible though.	contrastive	negative	neg	N  
+1118	Do you work in the same city?	I'm now just having a remote work.	ambiguous	negative	positive	Neutral
+1119	Are you in to sports?	I'm more in to doing sports than watching.	contrastive	negative	pos	P 
+1120	Is your new job going well?	If the emails slow a bit down.	conditional	negative	positive	Neutral
+1121	Is your new job going well?	I hope my relationship going also like that.	contrastive	negative	neg	N  
+1122	Have you been to the area parks yet?	If walking there three times a week counts.	conditional	negative	pos	Neutral
+1123	Will you be using public transportation?	If it’s on time.	conditional	negative	pos	Neutral
+1124	Will you be using public transportation?	Pretty sure I’m not outrunning a plane.	sarcastic	negative	neg	Neutral
+1125	Will you be using public transportation?	Walking or driving from Munich to Shanghai isn’t exactly an option.	ambiguous	negative	neg	N  
+1126	Are you looking to make more money?	I’ve got expensive taste in snacks.	sarcastic	negative	pos	Neutral
+1127	Are you looking to make more money?	I don't have enough money.	ambiguous	negative	neg	N  
+1128	Do you have any kids?	If stepping on Legos at night counts.	conditional	negative	neg	Neutral
+1129	Do you have any kids?	Tiny humans, full-time job.	sarcastic	negative	positive	Neutral
+1130	Do you have any kids?	Not as many as the neighbor.	contrastive	negative	neg	Neutral
+1131	Do you have any kids?	Bedtime is chaos around here.	ambiguous	negative	neg	N 
+1132	Are you into Chinese cuisine?	If dumplings are involved.	conditional	negative	pos	P 
+1133	Are you into Chinese cuisine?	My chopsticks never rest.	sarcastic	negative	pos	P 
+1134	Are you into Chinese cuisine?	I prefer Chinese cuisine over Japanese.	contrastive	negative	positive	P 
+1135	Do you still like hiking?	If the trail has snacks at the end.	conditional	negative	pos	Neutral
+1136	Do you still like hiking?	Though not as much as watching TV.	contrastive	negative	neg	N 
+1137	Do you still like hiking?	I only do not go hiking when it rains.	ambiguous	negative	pos	P 
+1138	Have you been to the new adventure park?	If standing in line and leaving early counts as going.	conditional	negative	Unclassified	N  
+1139	Have you been to the new adventure park?	But I enjoyed the old one more.	contrastive	negative	neg	N  
+1140	Do you remember where we used to hang out?	If we did not go to there every day I might did not remember.	conditional	negative	negative	N  
+1141	Do you remember where we used to hang out?	We went there instead of visiting school.	contrastive	negative	negative	N 
+1142	Do you remember where we used to hang out?	Was it at the shake shack?	ambiguous	negative	positive	Neutral
+1143	Do you like Italian food?	If pasta’s involved.	conditional	negative	pos	P 
+1144	Do you like Italian food?	I was basically born in a tomato sauce.	sarcastic	negative	pos	P 
+1145	Do you like Italian food?	Though Chinese food is my favorite.	contrastive	negative	neg	Neutral
+1146	Do you prefer happy endings?	If bittersweet endings pay me a lot, I might consider to prefer it.	conditional	negative	neg	Neutral
+1147	Do you prefer happy endings?	Melodramas shouldn’t exist in this world.	sarcastic	negative	neg	N 
+1148	Do you prefer happy endings?	Just like I would choose sweet cake.	contrastive	negative	pos	P 
+1149	Do you prefer happy endings?	I never watch Melodramas.	ambiguous	negative	neg	N 
+1150	Did you play an instrument in high school?	If struggling with piano counts.	conditional	negative	positive	Neutral
+1151	Did you play an instrument in high school?	I was the background noise at concerts.	sarcastic	negative	neg	N 
+1152	Did you play an instrument in high school?	But most of the time I was doing my homework.	contrastive	negative	negative	N 
+1153	Did you enjoy your flight?	If I did not sleep well, I might say no.	conditional	negative	neg	Neutral
+1154	Have you ever read horror novel books?	If the horror books for baby counts.	conditional	negative	neg	N 
+1155	Have you ever read horror novel books?	I was so freaked out, I didn’t sleep a wink last night.	sarcastic	negative	pos	N
+1156	Have you ever read horror novel books?	Though I prefer mysteries.	contrastive	negative	positive	Neutral
+1157	Have you ever read horror novel books?	There are some on my book shelf.	ambiguous	negative	positive	Neutral
+1158	Would you be open to joining some kind of club or team?	If it’s low-pressure.	conditional	negative	pos	Neutral
+1159	Would you be open to joining some kind of club or team?	Finally a reason to leave the house.	sarcastic	negative	neg	N
+1160	Would you be open to joining some kind of club or team?	I own a club.	ambiguous	negative	pos	P 
+1161	Do you like the Midtown area?	If I did not find a famous restaurant there I would not go there every week.	conditional	negative	positive	Neutral
+1162	Do you like the Midtown area?	The food there is much better than the ice cream.	contrastive	negative	positive	Neutral
+1163	Do you like top 42 music?	I live for hearing the same 5 songs on repeat.	sarcastic	negative	neg	N
+1164	Is fiction what you're mostly into?	If you count fantasy and thrillers as fiction.	conditional	negative	positive	Neutral
+1165	Is fiction what you're mostly into?	I do read a lot of fiction, probably too much.	sarcastic	negative	positive	P 
+1166	Is fiction what you're mostly into?	Mostly, but I enjoy the occasional biography or essay too.	contrastive	negative	pos	Neutral
+1167	Is that really you?	If you remember my beautiful eyes, you may not ask again.	conditional	negative	pos	P 
+1168	Is that really you?	Same person, different hair.	contrastive	negative	positive	Neutral
+1169	Is that really you?	We just do not meet each other for several hours!	ambiguous	negative	neg	Neutral
+1170	Are you getting a raise?	If nothing unexpected happens.	conditional	negative	negative	Neutral
+1171	Are you getting a raise?	I'm more likely to get a raise than my colleages.	contrastive	negative	pos	P 
+1172	Would you like living uptown?	It is much safer, right?	contrastive	negative	pos	Neutral
+1173	Would you like living uptown?	I always live there.	ambiguous	negative	positive	Neutral
+1174	Are you confident you can keep yourself safe in a big city?	It depends on where you stay. I do not go to America.	sarcastic	negative	negative	Neutral
+1175	Are you confident you can keep yourself safe in a big city?	The building has security.	ambiguous	negative	pos	Neutral
+1176	Do you think you'll like it there?	If first impressions are anything to go by.	conditional	negative	neg	Neutral
+1177	Are you thinking of moving soon?	It’s on my mind, but not urgent.	contrastive	negative	pos	Neutral
+1178	Are you thinking of moving soon?	I'm trying to find a new place.	ambiguous	negative	positive	Neutral
+1179	Do you know how much rent is?	If an approximate number is also counted.	conditional	negative	positive	Neutral
+1180	Do you know how much rent is?	Just enough to cry over monthly.	sarcastic	negative	neg	N
+1181	Do you know how much rent is?	It's much more expensive than living in my old town.	contrastive	negative	neg	N 
+1182	Do you know how much rent is?	I can not afford it.	ambiguous	negative	neg	N
+1183	Do you like to BBQ?	If I’m not the only one doing the grilling.	conditional	negative	pos	Neutral
+1184	Any thoughts on what you'd do instead?	If I go straight first and then turn right?	conditional	negative	positive	Neutral
+1185	Any thoughts on what you'd do instead?	I'd rather work in IT.	contrastive	negative	pos	P 
+1186	Any thoughts on what you'd do instead?	I will try a different way.	ambiguous	negative	pos	P 
+1187	Have you worked for a corporation before?	If internships count.	conditional	negative	positive	Neutral
+1188	Have you worked for a corporation before?	I know the lingo and the coffee habits.	sarcastic	negative	positive	P 
+1189	Have you worked for a corporation before?	Though I spent most of the time in the university.	contrastive	negative	neg	Neutral
+1190	Do you like ballet?	If the music is good.	conditional	negative	positive	Neutral
+1191	Do you like ballet?	I’ve watched Swan Lake more times than I’ve checked my email.	sarcastic	negative	pos	P 
+1192	Do you like ballet?	I prefer ballet to jazz.	contrastive	negative	pos	P 
+1193	Do you like ballet?	I used to take lessons.	ambiguous	negative	positive	Neutral
+1194	Did you have a good journey?	If I haven't gone to Spain, I might say no.	conditional	negative	negative	N
+1195	Did you have a good journey?	At least no one threw up this time.	contrastive	negative	neg	N 
+1196	Did you dance at the event?	If Mike did not invite me to dance, I guess I would not.	conditional	negative	neg	N 
+1197	Do you talk to any of our old friends?	If group chats count.	conditional	negative	positive	Neutral
+1198	Do you talk to any of our old friends?	Nostalgia is alive and texting.	sarcastic	negative	pos	P 
+1199	Do you talk to any of our old friends?	I message them rather than meeting them in person.	contrastive	negative	pos	Neutral
+1200	Have you got roommates?	If you ask me this before last Monday I might say no.	conditional	negative	negative	Neutral
+1201	Have you got roommates?	She is just another me.	sarcastic	negative	positive	Neutral
+1202	Have you got roommates?	I am also looking for a second.	ambiguous	negative	positive	P 
+1203	Have you ever been to a different country?	If you don’t count crossing this river as entering Russia, then I guess I haven’t been there.	conditional	negative	neg	Neutral
+1204	Have you ever been to a different country?	I haven’t traveled as much in the Southern Hemisphere as in the Northern.	contrastive	negative	positive	Neutral
+1205	Have you ever been to a different country?	I bought some souvenirs from Australia.	ambiguous	negative	pos	P 
+1206	Are you employed full-time?	If working 40 hours a week counts.	conditional	negative	pos	Neutral
+1207	Are you employed full-time?	It’s so much tougher than my student job ever was.	contrastive	negative	neg	N 
+1208	Are you employed full-time?	I’m up early and don’t sleep until late.	ambiguous	negative	neg	Neutral
+1209	Have you played any instruments before?	If banging on the piano as a kid in piano lessons counts.	conditional	negative	positive	Neutral
+1210	Have you played any instruments before?	Just enough to drive my neighbors crazy.	sarcastic	negative	neg	N
+1211	Have you played any instruments before?	Not as seriously as my sister.	contrastive	negative	negative	Neutral
+1212	Have you played any instruments before?	We had music class in the elementray school.	ambiguous	negative	positive	Neutral
+1213	Are you tired of working here?	If endless meetings and zero recognition count.	conditional	negative	neg	N 
+1214	Are you tired of working here?	I can not just live for spreadsheets and last-minute deadlines.	sarcastic	negative	neg	N
+1215	Are you tired of working here?	It’s not as exciting as it used to be.	contrastive	negative	neg	N
+1216	Are you tired of working here?	I've been here a long time and it seems to have stagnated.	ambiguous	negative	neg	N
+1217	How about trying some curry?	If it’s not too spicy.	conditional	negative	pos	Neutral
+1218	How about trying some curry?	I know a popular restaurant.	ambiguous	negative	positive	P 
+1219	Do you own a car?	If monthly insurance payments mean ownership.	conditional	negative	positive	Neutral
+1220	Do you own a car?	Only the thing that eats half my salary and sits in traffic.	sarcastic	negative	neg	N 
+1221	Do you own a car?	Though I ride a bike more often.	contrastive	negative	positive	Neutral
+1222	Do you own a car?	Parking’s been a daily struggle.	ambiguous	negative	neg	N
+1223	Are you tired from your journey?	If I do not take a cup of coffee, then I could not survive.	conditional	negative	positive	N
+1224	Are you tired from your journey?	Only coffee save my life.	sarcastic	negative	positive	N
+1225	Are you tired from your journey?	Not as bad as last time, but I could use a nap.	contrastive	negative	pos	Neutral
+1226	Are you tired from your journey?	I'll sleep like a log tonight.	ambiguous	negative	pos	P 
+1227	Are you a dessert connoisseur?	If chocolate qualifies me.	conditional	negative	positive	P 
+1228	Are you a dessert connoisseur?	Sweet desserts are better salty snacks.	contrastive	negative	positive	P 
+1229	Are you a dessert connoisseur?	I always have cake after dinner.	ambiguous	negative	pos	P 
+1230	Are you married?	If wearing this ring every day means I’m married.	conditional	negative	pos	Neutral
+1231	Are you married?	Only legally, emotionally, and in every other possible way.	sarcastic	negative	pos	P 
+1232	Are you married?	I don’t get to choose the TV shows anymore.	contrastive	negative	neg	N
+1233	Are you married?	Depends on whether you’re asking for legal status or peace of mind.	ambiguous	negative	Unclassified	Neutral
+1234	Have you eaten anything great last week?	If a homemade lasagna that nearly made me cry counts.	conditional	negative	positive	P 
+1235	Have you eaten anything great last week?	There is a  new restaurant downtown.	ambiguous	negative	positive	Neutral
+1236	Did you enjoy your journey?	If smooth traffic counts.	conditional	negative	Unclassified	Neutral
+1237	Did you enjoy your journey?	There were a few traffic jams, but the scenery was pretty.	contrastive	negative	positive	P 
+1238	Did you enjoy your journey?	I’m still thinking about it.	ambiguous	negative	neg	Neutral
+1239	Did you get all your work done?	If I did not, I am not here.	conditional	negative	negative	Neutral
+1240	Did you get all your work done?	The deadline has passed.	ambiguous	negative	negative	N
+1241	Do you like Sci-Fi?	If binge-watching three seasons of The Expanse in a weekend says anything.	conditional	negative	pos	P 
+1242	Do you like Sci-Fi?	No, I just casually own a lightsaber and quote Blade Runner for fun.	sarcastic	negative	neg	Neutral
+1243	You going out tonight?	If I did not agree to drink with them then no.	conditional	negative	negative	N
+1244	Would you like to have a coffee together?	If we can come back at 2.	conditional	negative	pos	Neutral
+1245	Would you like to have a coffee together?	A coffee right now would be better than continueing my work.	contrastive	negative	pos	P 
+1246	Would you like to have a coffee together?	Can I call Anna together?	ambiguous	negative	neg	Neutral
+1247	Could be nice—when were you thinking?	If it’s not too early in the morning.	conditional	negative	pos	P 
+1248	Could be nice—when were you thinking?	As long as it doesn’t clash with my royal tea ceremony.	sarcastic	negative	pos	N
+1249	Could be nice—when were you thinking?	It depends on what you have in mind.	ambiguous	negative	positive	Neutral
+1250	Are you working here?	If answering emails counts.	conditional	negative	positive	Neutral
+1251	Are you working here?	I just work for relax.	sarcastic	negative	positive	Neutral
+1252	Are you working here?	I still have a small task to finish.	contrastive	negative	positive	Neutral
+1253	Are you working here?	I will be done in an hour.	ambiguous	negative	pos	Neutral
+1254	Do you want to eat tacos?	If no spicy.	conditional	negative	pos	Neutral
+1255	Do you want to eat tacos?	I am think of it for days.	sarcastic	negative	positive	Neutral
+1256	Do you want to eat tacos?	I miss taco sauce very much.	contrastive	negative	pos	P 
+1257	Do you want to eat tacos?	Can I eat two?	ambiguous	negative	pos	P 
+1258	Do you have any fun plans for the weekend?	If a walk by the lake counts.	conditional	negative	pos	Neutral
+1259	Do you have any fun plans for the weekend?	Going to the countryside instead of staying at home.	contrastive	negative	positive	P 
+1260	Do you want to switch fields?	Oh no, I love endless meetings and Excel sheets that crash.	sarcastic	negative	neg	N 
+1261	Do you want to switch fields?	Working as a pilot sounds more attractive than my delivery job, right?	contrastive	negative	pos	P 
+1262	Do you want to switch fields?	I’ve been exploring other options.	ambiguous	negative	positive	Neutral
+1263	Are you watching any new TV shows?	If starting three series and finishing none counts.	conditional	negative	positive	Neutral
+1264	Are you watching any new TV shows?	Only five at once, totally under control.	sarcastic	negative	positive	Neutral
+1265	Are you watching any new TV shows?	I am following The Voice.	ambiguous	negative	pos	P 
+1266	Have you been eating alright?	If having sweet after main dish counts.	conditional	negative	positive	Neutral
+1267	Have you been eating alright?	I am queen of sweet and I have a lot.	sarcastic	negative	pos	P 
+1268	Do you like bowling?	If I don’t have to keep score.	conditional	negative	pos	Neutral
+1269	Do you like bowling?	Though I’m not great at it, I need training.	contrastive	negative	pos	Neutral
+1270	Do you like bowling?	I am in the club.	ambiguous	negative	positive	Neutral
+1271	Are you reading anything right now?	If you mean the ads.	conditional	negative	neg	N
+1272	Are you reading anything right now?	Nothing except words atrract me.	sarcastic	negative	positive	Neutral
+1273	Are you reading anything right now?	Just started something new, while I didn't finish the old book.	contrastive	negative	positive	Neutral
+1274	Did you move here with family?	If taking the same train here counts.	conditional	negative	positive	Neutral
+1275	Did you move here with family?	Only last time I moved alone.	contrastive	negative	negative	Neutral
+1276	Did you move here with family?	But we don't live together.	ambiguous	negative	neg	N
+1277	Can I join you this weekend?	If you have no plan in weekend.	conditional	negative	neg	Neutral
+1278	Can I join you this weekend?	Please come with your friends rather than alone.	contrastive	negative	neg	N
+1279	Can I join you this weekend?	I will send you the adress later.	ambiguous	negative	positive	Neutral
+1280	Are you driving home now?	If I don't want to go to bed early then no.	conditional	negative	negative	Neutral
+1281	Are you driving home now?	I drive at turtle speed.	sarcastic	negative	neg	N
+1282	Are you driving home now?	I’m basically a turtle on wheels, I need to leave earlier.	contrastive	negative	neg	N
+1283	Are you driving home now?	I am now that I've found my keys.	ambiguous	negative	pos	Neutral
+1284	Are you worried about money?	If I were a millionaire, spending money wouldn’t hurt at all.	conditional	negative	pos	P 
+1285	Are you worried about money?	I check my bank account more often than I check my messages.	sarcastic	negative	neg	Neutral
+1286	Are you worried about money?	I spend money like I breathe.	contrastive	negative	positive	P 
+1287	Are you worried about money?	I try to work hard.	ambiguous	negative	positive	Neutral
+1288	Are you interested in keeping fit?	If selecting fit clothes also counts.	conditional	negative	pos	Neutral
+1289	Are you interested in keeping fit?	I am going to be a fitness blogger without muscles.	sarcastic	negative	neg	N
+1290	Are you interested in keeping fit?	But I prefer to control my diet rather than doing exercises.	contrastive	negative	neg	Neutral
+1291	Are you interested in keeping fit?	I sometimes take part in sports events.	ambiguous	negative	pos	P 
+1292	Do you have a specific neighborhood in mind?	If I can afford it.	conditional	negative	negative	Neutral
+1293	Do you have a specific neighborhood in mind?	Somewhere between quiet and walkable.	sarcastic	negative	positive	Neutral
+1294	Do you have a specific neighborhood in mind?	The cheapest and safest.	contrastive	negative	positive	N
+1295	Are you a traveler?	If having been to more than 200 cities counts.	conditional	negative	pos	Neutral
+1296	Are you a traveler?	You must follow me on YouTube.	sarcastic	negative	neg	Neutral
+1297	Are you happy with your job?	If getting paid to sit in meetings counts.	conditional	negative	neg	Neutral
+1298	Are you happy with your job?	It’s not perfect, but it’s better than my last job.	contrastive	negative	pos	Neutral
+1299	Are you happy with your job?	I am not want to looking for a new one currently.	ambiguous	negative	neg	Neutral
+1300	Glad it's the weekend?	If it was not weekend, I would cry.	conditional	negative	pos	N
+1301	Glad it's the weekend?	Just need 48 hours to recover from the 5 day trauma.	sarcastic	negative	neg	N 
+1302	Glad it's the weekend?	I am going to sleep a whole day.	ambiguous	negative	neg	N
+1303	Were you able to sleep during the travel?	If nodding off with my mouth open counts.	conditional	negative	pos	Neutral
+1304	Were you able to sleep during the travel?	I turned my seat into a personal cloud.	sarcastic	negative	pos	P 
+1305	Were you able to sleep during the travel?	Traveling is tiring so it is not difficult.	contrastive	negative	pos	Neutral
+1306	Were you able to sleep during the travel?	I always sleep on the plane.	ambiguous	negative	pos	P 
+1307	Do you listen to country music?	Only when I’m not busy line dancing in my living room.	sarcastic	negative	pos	P 
+1308	Do you listen to country music?	Let’s just say my Spotify knows the lyrics better than I do.	ambiguous	negative	pos	Neutral
+1309	Would a book of short stories appeal to you?	Short save time!	sarcastic	negative	positive	Neutral
+1310	Would a book of short stories appeal to you?	The contexts are more important.	contrastive	negative	neutral	Neutral
+1311	Would a book of short stories appeal to you?	I do not care the story is short or long.	ambiguous	negative	neg	Neutral
+1312	Have you ever ready Stephen King books?	If losing sleep over It and The Shining counts.	conditional	negative	positive	N
+1313	Have you ever ready Stephen King books?	Only every time I wanted to never sleep again.	sarcastic	negative	neg	N
+1314	Have you ever ready Stephen King books?	I've read a few of his older ones, but never read new ones.	contrastive	negative	positive	Neutral
+1315	Have you ever ready Stephen King books?	I avoid clowns now for a reason.	ambiguous	negative	neg	N
+1316	Is New York a nice place?	If you like energy and chaos.	conditional	negative	positive	Neutral
+1317	Is New York a nice place?	Just ignore the honking.	sarcastic	negative	negative	Neutral
+1318	Is New York a nice place?	It has great spots, though it’s intense.	contrastive	negative	pos	P 
+1319	Is New York a nice place?	Depends what you’re looking for.	ambiguous	negative	neg	Neutral
+1320	Would you be interested in cultural events in the area?	If there’s food or music.	conditional	negative	pos	P 
+1321	Would you be interested in cultural events in the area?	I live for local flavor.	sarcastic	negative	pos	P 
+1322	Would you be interested in cultural events in the area?	That sounds great, though I’m not always available.	contrastive	negative	pos	P 
+1323	Do you like pie?	I’m on a first-name basis with apple pie.	sarcastic	negative	pos	P 
+1324	Do you like pie?	I like some types.	contrastive	negative	positive	Neutral
+1325	Do you like ice cream?	If lactose lets me.	conditional	negative	neg	Neutral
+1326	Do you like ice cream?	I basically run on frozen sugar.	sarcastic	negative	pos	P 
+1327	Do you like ice cream?	Though I try not to have it too often.	contrastive	negative	pos	Neutral
+1328	Do you enjoy flying?	If getting a window seat and free snacks is part of it.	conditional	negative	pos	P 
+1329	Do you enjoy flying?	I am pretending I’m in a travel montage.	sarcastic	negative	pos	Neutral
+1330	Do you enjoy flying?	Better than a 12-hour road trip.	contrastive	negative	pos	P 
+1331	Do you enjoy flying?	I sleep easily on the plane.	ambiguous	negative	pos	P 
+1332	Is the pay good?	If I could not afford my apartment then no.	conditional	negative	negative	N 
+1333	Is the pay good?	I buy whatever I like.	sarcastic	negative	positive	Neutral
+1334	Is the pay good?	I do not consider resigning.	ambiguous	negative	positive	P 
+1335	Are you leaving as well?	I have to explore a new way for us.	sarcastic	negative	positive	Neutral
+1336	Are you leaving as well?	Not as early as some, but it is time to go to the next part.	contrastive	negative	positive	Neutral
+1337	Are you leaving as well?	I also have another plan.	ambiguous	negative	positive	Neutral
+1338	Have you seen the old neighborhood?	The roads in the old neighborhood were not so plane as now. 	contrastive	negative	negative	Neutral
+1339	Want to get fast food?	If I could also get cola.	conditional	negative	positive	Neutral
+1340	Want to get fast food?	I don't really want to go to the one near me, how about the new one?	ambiguous	negative	neg	Neutral
+1341	Do you feel like going for a long walk tomorrow?	If I do not have to get up at 6 in the morning.	conditional	negative	neg	Neutral
+1342	Do you feel like going for a long walk tomorrow?	I will prepare the breakfast for us.	ambiguous	negative	neg	Neutral
+1343	Do you work weekends?	If answering emails in pajamas counts.	conditional	negative	pos	Neutral
+1344	Do you work weekends?	My laptop never really takes a day off.	sarcastic	negative	positive	Neutral
+1345	Do you work weekends?	Not every weekend.	contrastive	negative	positive	Neutral
+1346	Do you work weekends?	I am going to fly to Munich this weekend.	ambiguous	negative	neg	Neutral
+1347	Does being in nature relax you?	If I leave my phone behind.	conditional	negative	positive	Neutral
+1348	Does being in nature relax you?	Though I don’t go out often.	contrastive	negative	positive	Neutral
+1349	Does being in nature relax you?	I live near a lake.	ambiguous	negative	positive	Neutral
+1350	Would you like pizza tonight?	If there is no olive sauce.	conditional	negative	neg	Neutral
+1351	Would you like pizza tonight?	I am going to eat two!	sarcastic	negative	pos	P 
+1352	Would you like pizza tonight?	I don't like Hawaiian pizza compared to sausage.	contrastive	negative	neg	N 
+1353	Would you like pizza tonight?	Order me another Coke,	ambiguous	negative	neg	Neutral
+1354	Is your brother still in London?	If he didn’t secretly move again.	conditional	negative	neg	N 
+1355	Is your brother still in London?	He almost forgets me here.	sarcastic	negative	neg	N 
+1356	Is your brother still in London?	He is Londoner now.	ambiguous	negative	positive	P 
+1357	Do you like the coffee here?	If I do not order here every day I might say no.	conditional	negative	negative	N
+1358	Do you like the coffee here?	It’s basically my personality in a cup.	sarcastic	negative	pos	P 
+1359	Do you like the coffee here?	However I try to no coffee, I come here twice a week.	contrastive	negative	neg	N
+1360	Have you been bowling before?	If you don’t mean my bowling skills.	conditional	negative	pos	Neutral
+1361	Have you been bowling before?	I dream I could get a bowling club.	sarcastic	negative	neg	Neutral
+1362	Do you plan to move there someday?	When I could get a car first.	sarcastic	negative	positive	Neutral
+1363	Do you plan to move there someday?	The older I get, the more I would want to.	contrastive	negative	pos	P 
+1364	Do you plan to move there someday?	I am going to talk it with my family.	ambiguous	negative	positive	Neutral
+1365	Have you watched Disney movies?	If childhood counts.	conditional	negative	positive	Neutral
+1366	Have you watched Disney movies?	I still sing the songs in the shower.	sarcastic	negative	pos	P 
+1367	Do you want something sweet?	Let me finish my dish first.	ambiguous	negative	neg	Neutral
+1368	Are you in the mood for burgers?	If I could have double the pickles.	conditional	negative	pos	Neutral
+1369	Are you in the mood for burgers?	Mit onion tastes better than only with pickles.	contrastive	negative	positive	Neutral
+1370	Are you in the mood for burgers?	I can't decide between steak burgers and mushroom .	ambiguous	negative	neg	Neutral
+1371	Do you read biographies?	If learning about other people’s mistakes counts as reading.	conditional	negative	neg	N
+1372	Do you read biographies?	Nothing like relaxing with 500 pages of someone else’s life.	sarcastic	negative	pos	P 
+1373	Are you employed?	If endless Zoom calls and Slack messages count.	conditional	negative	neg	Neutral
+1374	Are you employed?	I’ve survived another round of layoffs.	sarcastic	negative	neg	N
+1375	Are you employed?	I am considering changing jobs.	contrastive	negative	positive	Neutral
+1376	Are you employed?	My job isn't too great.	ambiguous	negative	negative	N
+1377	Do you want to enjoy the high end lifestyle?	If someone else is paying for it.	conditional	negative	pos	Neutral
+1378	Is it in a good location?	If “close to everything” counts.	conditional	negative	pos	Neutral
+1379	Is it in a good location?	Quieter than the last one.	contrastive	negative	pos	P 
+1380	Have a nice house yet?	We just bought one down the road from here.	ambiguous	negative	positive	P 
+1381	Do you hear about our friend John's marriage?	if you mean the surprise wedding in Vegas last weekend.	conditional	negative	positive	P 
+1382	Do you hear about our friend John's marriage?	I thought everyone knows that.	sarcastic	negative	positive	Neutral
+1383	Do you hear about our friend John's marriage?	But I still can't believe he settled down before Mike did.	contrastive	negative	neg	N
+1384	Do you like to party a lot?	If the music’s good and I don’t have to wake up early.	conditional	negative	pos	Neutral
+1385	Do you like to party a lot?	My shoes are still recovering from the last one.	sarcastic	negative	neg	N
+1386	Do you like to party a lot?	Depends on the crowd, I guess.	ambiguous	negative	Unclassified	Neutral
+1387	Was your week okay?	If nothing going catastrophically wrong is considered okay.	conditional	negative	neg	N
+1388	Was your week okay?	I didn’t quit my job.	ambiguous	negative	positive	Neutral
+1389	Are you in the mood for something sweet?	If it involves chocolate.	conditional	negative	pos	P 
+1390	Are you in the mood for something sweet?	Only if sugar is still legal.	sarcastic	negative	neg	N 
+1391	Are you in the mood for something sweet?	It's better than another salad.	contrastive	negative	positive	N
+1392	Are you in the mood for something sweet?	I can only eat a bit chocolate.	ambiguous	negative	positive	Neutral
+1393	Are you single?	If I accept my ex-boyfriend's proposal then no.	conditional	negative	negative	N
+1394	Are you single?	Me and my imaginary boyfriend just broke up.	sarcastic	negative	neg	N
+1395	Are you single?	I’ve got my dog and cat to keep me company.	ambiguous	negative	pos	P 
+1396	Do you mind seafood?	If it’s on the table, I’ll probably pass.	conditional	negative	neg	N
+1397	Do you mind seafood?	Only when I want to ruin my day.	sarcastic	negative	neg	N 
+1398	Do you mind seafood?	I’m fine with most food, but seafood’s not really my thing.	contrastive	negative	neg	Neutral
+1399	Do you mind seafood?	I don’t go looking for it on menus.	ambiguous	negative	neg	Neutral
+1400	Could you go for a salad?	If it comes with some grilled chicken on top.	conditional	negative	pos	P 
+1401	Are you busy Saturday?	If I do not have to go to work then no.	conditional	negative	positive	Neutral
+1402	Are you busy Saturday?	Saturday is also workday for me.	sarcastic	negative	neg	N
+1403	Are you busy Saturday?	Not busier than Friday but still lots of work to be done.	contrastive	negative	pos	Neutral
+1404	Are you busy Saturday?	I have to cancel my massage appointment on Saturday.	ambiguous	negative	neg	N
+1405	Do you paint?	Only every time I feel like turning my living room into a disaster zone.	sarcastic	negative	neg	N 
+1406	Do you mind heights?	If there's no railing, you won’t catch me near the edge.	conditional	negative	neg	N
+1407	Do you mind heights?	I get dizzy watching birds fly.	sarcastic	negative	positive	Neutral
+1408	Do you mind heights?	I’m fine underground.	contrastive	negative	neg	Neutral
+1409	Do you mind heights?	Heights and I have never quite gotten along.	ambiguous	negative	neg	N
+1410	would you prefer something already made?	If it’s something you’ve made before.	conditional	negative	positive	Neutral
+1411	would you prefer something already made?	Why do the work when you can just enjoy the outcome?	sarcastic	negative	pos	P 
+1412	would you prefer something already made?	I used to cook a lot, but today something pre-made sounds not bad.	contrastive	negative	positive	Neutral
+1413	would you prefer something already made?	When I am busy I always choose that.	ambiguous	negative	pos	P 
+1414	Do you like rice?	If it's cooked.	conditional	negative	pos	Neutral
+1415	Are you more of a homebody?	If there’s a cozy blanket, good food, and Wi-Fi, then yeah, I might never leave the house.	conditional	negative	pos	P 
+1416	Are you more of a homebody?	The outside world is just so overrated, why go out when you’ve got a couch and existential dread?	sarcastic	negative	neg	N 
+1417	Are you more of a homebody?	My sofa feels like the universe.	ambiguous	negative	positive	P 
+1418	Do you want fast food?	If it's from that new burger place.	conditional	negative	pos	Neutral
+1419	Do you want fast food?	I'm addicted to fast food.	sarcastic	negative	pos	P 
+1420	Do you want fast food?	I was thinking of cooking, but fast food does sound tempting.	contrastive	negative	pos	Neutral
+1421	Do you want fast food?	I am going to go to McDonald's.	ambiguous	negative	pos	Neutral
+1422	Is Mexican food too spicy for you?	If I had a glass of milk nearby, I might survive the first bite.	conditional	negative	neg	N
+1423	Is Mexican food too spicy for you?	Just a tiny bite and my tongue thinks it's on vacation in a volcano.	sarcastic	negative	neg	N
+1424	Is Mexican food too spicy for you?	I can only handle ketchup.	contrastive	negative	neg	N
+1425	Is Mexican food too spicy for you?	Where could I get a no spicy food?	ambiguous	negative	neg	N
+1426	Are your hours flexible?	My calendar’s practically made of rubber.	sarcastic	negative	pos	P 
+1427	Are your hours flexible?	I don’t live by the clock.	ambiguous	negative	pos	Neutral
+1428	Is it too expensive?	If I skipped eating out for a month, maybe I could afford it.	conditional	negative	neg	N 
+1429	Is it too expensive?	Only if you think selling a kidney is a reasonable option.	sarcastic	negative	neg	N 
+1430	Is it too expensive?	My wallet cried a little.	ambiguous	negative	neg	N
+1431	Have you ever try Asian food?	If sushi counts.	conditional	negative	positive	Neutral
+1432	Have you ever try Asian food?	More often than I eat Western food, actually.	contrastive	negative	pos	P 
+1433	Do you need any help with your resume?	If you have a few minutes.	conditional	negative	pos	Neutral
+1434	Do you need any help with your resume?	Unless employers love chaos, I probably do.	sarcastic	negative	neg	N 
+1435	Do you need any help with your resume?	The layout could really use a second pair of eyes.	contrastive	negative	positive	N
+1436	Do you need any help with your resume?	I just do not want to bother you.	ambiguous	negative	neg	N
+1437	Have you ever tried deer?	If campfire dinners count.	conditional	negative	positive	Neutral
+1438	Have you ever tried deer?	Compared to elk, it’s actually a bit milder.	contrastive	negative	pos	P 
+1439	Have you ever tried deer?	I thought it was horsemeat!	ambiguous	negative	neg	N
+1440	Is this your child?	If the messy hair and loud voice didn’t give it away.	conditional	negative	neg	Neutral
+1441	Is this your child?	Who else would climb trees in dress shoes?	sarcastic	negative	pos	P 
+1442	Enjoy reading books that make you laugh?	I’ll take witty dialogue over dramatic monologues any day.	contrastive	negative	pos	P 
+1443	Enjoy reading books that make you laugh?	My bookshelf isn’t exactly serious.	ambiguous	negative	pos	Neutral
+1444	Is it close to a subway station?	If you take two steps outside, you might trip onto the platform.	conditional	negative	positive	N
+1445	Can you do latin dances?	If there’s good music and a little space.	conditional	negative	pos	Neutral
+1446	Can you do latin dances?	My hips have a mind of their own of music.	sarcastic	negative	positive	Neutral
+1447	Are you outgoing?	Shy? Only when I’m asleep.	sarcastic	negative	positive	Neutral
+1448	Are you outgoing?	Silence isn’t really my thing.	ambiguous	negative	neg	Neutral
+1449	Do you mind crowds?	If I can find a quiet corner, I’ll survive.	conditional	negative	neg	Neutral
+1450	Do you mind crowds?	Only when I’m trying to breathe.	sarcastic	negative	neg	Neutral
+1451	Do you mind crowds?	I don’t exactly thrive in stampedes.	ambiguous	negative	neg	N 
+1452	Is the building a high-rise?	If the elevator ride takes longer than your morning coffee.	conditional	negative	neg	N
+1453	Is the building a high-rise?	Let’s just say the clouds feel like neighbors.	sarcastic	negative	pos	P 
+1454	Have you ever lived in a big city?	If rush hour traffic and 24/7 noise count.	conditional	negative	neg	Neutral
+1455	Have you ever lived in a big city?	I used to think sirens were a lullaby.	sarcastic	negative	neg	N
+1456	Have you ever lived in a big city?	After spending years in the city, the countryside feels like another planet.	contrastive	negative	neg	N
+1457	Are you allergic to seafood?	If I want to avoid a trip to the ER, I steer clear of it.	conditional	negative	neg	N
+1458	Are you allergic to seafood?	Only if hives and panic are part of the meal.	sarcastic	negative	neg	N
+1459	Are you allergic to seafood?	I’m fine with most foods, but seafood and I don’t get along.	contrastive	negative	neg	N
+1460	Are you allergic to seafood?	It doesn’t sit well with me at all.	ambiguous	negative	neg	N
+1461	Have you travelled internationally?	If airport security stamps count as souvenirs.	conditional	negative	pos	Neutral
+1462	Have you travelled internationally?	My passport gets more action than my gym membership.	sarcastic	negative	pos	P 
+1463	Have you travelled internationally?	I’ve spent more time in duty-free shops than in local malls.	contrastive	negative	positive	Neutral
+1464	I am so bored, wanna go have some fun?	Do I look like I have better plans?	sarcastic	negative	neg	N 
+1465	I am so bored, wanna go have some fun?	Sitting here isn’t doing me any favors.	contrastive	negative	neg	N
+1466	I am so bored, wanna go have some fun?	My boredom is begging for it.	ambiguous	negative	pos	P 
+1467	Do you like truffle oil?	If it’s drizzled on fries or pasta.	conditional	negative	pos	P 
+1468	Do you like truffle oil?	It never lasts long in my kitchen.	ambiguous	negative	neg	Neutral
+1469	Do you like parks?	Who doesn’t love a place where squirrels outnumber people?	sarcastic	negative	pos	P 
+1470	Do you like parks?	Between traffic noise and birds chirping, I’ll take the birds.	contrastive	negative	pos	P 
+1471	Have you eaten at McDonald's?	If late-night cravings count, then more than once.	conditional	negative	positive	Neutral
+1472	Have you eaten at McDonald's?	What kind of childhood skips McDonald’s?	sarcastic	negative	positive	Neutral
+1473	Have you eaten at McDonald's?	I’ve had fancier meals, but few as iconic.	contrastive	negative	pos	P 
+1474	Have you eaten at McDonald's?	I can still sing the jingle.	ambiguous	negative	pos	P 
+1475	Are you a foodie?	If taking pictures of my meals counts.	conditional	negative	positive	Neutral
+1476	Are you a foodie?	My stomach has a better memory than I do.	sarcastic	negative	neg	Neutral
+1477	Are you a foodie?	My travel plans usually start with restaurant reviews.	ambiguous	negative	pos	P 
+1478	Do you remember an umbrella?	I forgot my keys but not the umbrella.	contrastive	negative	positive	Neutral
+1479	Do you remember an umbrella?	My bag is poking people for a reason.	ambiguous	negative	neg	N
+1480	Would you like to see a movie?	If there’s popcorn involved.	conditional	negative	pos	P 
+1481	Would you like to see a movie?	Only if it means escaping real life for two hours.	sarcastic	negative	neg	N 
+1482	Have you been to Barton Springs?	If jumping into freezing water counts as fun.	conditional	negative	Unclassified	N
+1483	Have you been to Barton Springs?	My toes still remember how cold it was.	sarcastic	negative	positive	P 
+1484	Have you been to Barton Springs?	I will show you some photos on my phone.	ambiguous	negative	pos	Neutral
+1485	Are you gluten intolerant?	If I want to feel normal the next day, I avoid it like the plague.	conditional	negative	neg	N
+1486	Are you gluten intolerant?	Bread and I had a messy breakup.	sarcastic	negative	positive	Neutral
+1487	Are you gluten intolerant?	I used to love pasta, but now it doesn’t love me back.	contrastive	negative	neg	N 
+1488	Are you gluten intolerant?	We are the enemy.	ambiguous	negative	neg	N 
+1489	Do you spend a lot on food?	My bank thinks I’m feeding five people.	sarcastic	negative	pos	Neutral
+1490	Do you spend a lot on food?	My receipts could probably tell a whole restaurant review.	ambiguous	negative	pos	Neutral
+1491	Have you told anyone else that you are thinking?	If close friends count.	conditional	negative	positive	Neutral
+1492	Have you told anyone else that you are thinking?	It’s not exactly a state secret.	sarcastic	negative	positive	Neutral
+1493	Have you told anyone else that you are thinking?	I haven’t made it public, but I’ve talked to a couple of people.	contrastive	negative	positive	Neutral
+1494	Have you told anyone else that you are thinking?	It hasn’t been only in my head.	ambiguous	negative	positive	Neutral
+1495	Let's go swimming?	If the water’s not freezing.	conditional	negative	pos	Neutral
+1496	Let's go swimming?	I’ve already packed my towel.	ambiguous	negative	pos	P 
+1497	Did you already book a hotel?	Flights were a mess, but at least the hotel’s sorted.	contrastive	negative	positive	Neutral
+1498	Do you like heavy metal?	If it’s loud and fast, chances are it’s already on my playlist.	conditional	negative	pos	P 
+1499	Do you like heavy metal?	Only as much as my neighbors hate it.	sarcastic	negative	neg	N 
+1500	Do you like heavy metal?	I enjoy classical too, but nothing gets the energy up like metal.	contrastive	negative	pos	P 
+1501	Do you like heavy metal?	My headphones have been through a lot.	ambiguous	negative	negative	Neutral
+1502	Do you work with people?	If meetings, emails, and team chats count.	conditional	negative	pos	Neutral
+1503	Do you work with people?	All day, every day — sometimes I even talk in my sleep.	sarcastic	negative	pos	P 
+1504	Do you work with people?	It’s not a solo job, so collaboration is pretty much constant.	contrastive	negative	pos	P 
+1505	Do you work with people?	I rarely have a quiet moment at work.	ambiguous	negative	pos	Neutral
+1506	Did you listen to the new Taylor Swift album?	If playing it on repeat counts as listening.	conditional	negative	positive	Neutral
+1507	Did you listen to the new Taylor Swift album?	My Spotify Wrapped is going to be obvious.	ambiguous	negative	positive	Neutral
+1508	Are you still at the same job?	If showing up every Monday counts.	conditional	negative	positive	Neutral
+1509	Are you still at the same job?	Thought about leaving, but I’m still hanging in there.	contrastive	negative	neg	N
+1510	Are you still at the same job?	My desk hasn’t moved.	ambiguous	negative	pos	P 
+1511	Do you like Chinese food?	If it comes with dumplings or noodles.	conditional	negative	pos	Neutral
+1512	Do you like Chinese food?	I am Chinese.	ambiguous	negative	positive	Neutral
+1513	Are you a vegetarian?	If it doesn’t have a face, it’s probably on my plate.	conditional	negative	neg	N
+1514	Are you a vegetarian?	My fridge hasn’t seen meat in years.	sarcastic	negative	pos	P 
+1515	Do you like humor?	Who doesn’t enjoy a good laugh that makes your stomach hurt?	sarcastic	negative	pos	P 
+1516	Do you like humor?	I quote comedians more than philosophers.	ambiguous	negative	pos	P 
+1517	Can you show proof of income?	My printer is tired from all the paperwork I’ve had to print lately.	sarcastic	negative	neg	Neutral
+1518	Can you show proof of income?	I may not enjoy paperwork, but I’ve kept everything organized.	contrastive	negative	pos	Neutral
+1519	Can you show proof of income?	Which month do you want to see?	ambiguous	negative	positive	Neutral
+1520	Hasn't time flown by?	If I blinked, I must’ve missed half the year.	conditional	negative	positive	P 
+1521	Hasn't time flown by?	Wasn’t it January like five minutes ago?	sarcastic	negative	neg	N
+1522	Hasn't time flown by?	Some weeks drag on, but somehow the months just vanish.	contrastive	negative	positive	P 
+1523	Hasn't time flown by?	My calendar didn’t see it coming.	ambiguous	negative	neg	Neutral
