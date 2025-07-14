@@ -149,20 +149,20 @@ test_df.to_csv("test_with_predictions.tsv", sep="\t", index=False)
 import pandas as pd
 
 test_df = pd.read_csv("1.tsv", sep="\t")
-# 统计 predicted_label 和 true_label 不同的行数
-num_wrong = (test_df["predicted_label"] != test_df["Label"]).sum()
-print(f"预测错误的数量是：{num_wrong}")
 
-# 筛选出真实标签为 "Yes" 且预测错误的样本
+num_wrong = (test_df["predicted_label"] != test_df["Label"]).sum()
+print(f"The number of wrong predictions：{num_wrong}")
+
+# true label is YES
 wrong_yes = test_df[(test_df["Label"] == "Yes") & (test_df["predicted_label"] != "Yes")]
 
-# 统计数量
-num_wrong_yes = len(wrong_yes)
-print(f'真实标签为 "Yes" 且预测错误的数量是：{num_wrong_yes}')
 
-# 筛选出真实标签为 "Yes" 且预测错误的样本
+num_wrong_yes = len(wrong_yes)
+print(f'The number of true label is YES but pred.NO：{num_wrong_yes}')
+
+# True label is NO:
 wrong_yes = test_df[(test_df["Label"] == "No") & (test_df["predicted_label"] != "No")]
 
-# 统计数量
+
 num_wrong_yes = len(wrong_yes)
-print(f'真实标签为 "Yes" 且预测错误的数量是：{num_wrong_yes}')
+print(f'The number of true label is NO but pred.YES ：{num_wrong_yes}')
